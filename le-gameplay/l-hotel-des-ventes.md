@@ -1,19 +1,19 @@
-# L'Hôtel des Ventes
+# 🏦 L'Hôtel des Ventes
 
 > Achète et vends des items entre joueurs.
 
 ## Mettre un item en vente
 
-[Comment lister un objet.]
+\[Comment lister un objet.]
 
 ## Acheter un item
 
-[Comment parcourir les annonces et acheter.]
+\[Comment parcourir les annonces et acheter.]
 
 ## Taxes et limites
 
-[Frais éventuels et nombre maximum d'annonces.]
+\[Frais éventuels et nombre maximum d'annonces.]
 
 ## Commande
 
-[Par exemple : `/ah`.]
+\[Par exemple : `/ah`.]

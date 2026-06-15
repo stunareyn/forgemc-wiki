@@ -1,15 +1,15 @@
-# La Forge
+# ⚒️ La Forge
 
 > Forge et améliore ton équipement.
 
 ## Fonctionnement de la forge
 
-[Explique le système de forge.]
+\[Explique le système de forge.]
 
 ## Recettes
 
-[Liste ou catégories de recettes.]
+\[Liste ou catégories de recettes.]
 
 ## Améliorations
 
-[Comment améliorer un objet et quelles ressources sont requises.]
+\[Comment améliorer un objet et quelles ressources sont requises.]

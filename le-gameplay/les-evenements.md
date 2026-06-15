@@ -1,15 +1,15 @@
-# Les Événements
+# 🗓️ Les Événements
 
 > Participe aux événements pour gagner des récompenses exclusives.
 
 ## Événements réguliers
 
-[Événements quotidiens ou hebdomadaires.]
+\[Événements quotidiens ou hebdomadaires.]
 
 ## Événements spéciaux
 
-[Événements saisonniers ou ponctuels.]
+\[Événements saisonniers ou ponctuels.]
 
 ## Récompenses
 
-[Lots à gagner.]
+\[Lots à gagner.]
