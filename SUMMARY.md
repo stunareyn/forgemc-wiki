@@ -1,13 +1,13 @@
 # Table of contents
 
-* [🎉 Bienvenue sur ForgeMC !](README.md)
+* [🎉 Bienvenue sur VinlandCube !](README.md)
 
 ## Informations importantes
 
 * [‼️ Règlement en jeu](informations-importantes/reglement-en-jeu.md)
 * [🪧 Règlement Discord](informations-importantes/reglement-discord.md)
-* [🚂 Comment rejoindre ForgeMC](informations-importantes/comment-rejoindre-forgemc.md)
-* [📮 Comment voter pour ForgeMC](informations-importantes/comment-voter-pour-forgemc.md)
+* [🚂 Comment rejoindre VinlandCube](informations-importantes/comment-rejoindre-forgemc.md)
+* [📮 Comment voter pour VinlandCube](informations-importantes/comment-voter-pour-forgemc.md)
 * [📜 Liste des commandes](informations-importantes/liste-des-commandes.md)
 
 ## Le Gameplay

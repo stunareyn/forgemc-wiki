@@ -1,6 +1,6 @@
-# 🎉 Bienvenue sur ForgeMC !
+# 🎉 Bienvenue sur VinlandCube !
 
-Bienvenue dans la documentation officielle de **ForgeMC** ! 🎉 Tu trouveras ici tout ce qu'il faut savoir pour bien démarrer, comprendre les fonctionnalités du serveur et progresser.
+Bienvenue dans la documentation officielle de **VinlandCube** ! 🎉 Tu trouveras ici tout ce qu'il faut savoir pour bien démarrer, comprendre les fonctionnalités du serveur et progresser.
 
 ## Par où commencer ?
 
