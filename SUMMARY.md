@@ -12,10 +12,10 @@
 
 ## Le Gameplay
 
-* [⚔️ Les Donjons](le-gameplay/les-donjons.md)
+* [🚪 Les Failles](le-gameplay/les-donjons.md)
 * [👨‍🌾 Les Métiers](le-gameplay/les-metiers.md)
-* [🌟 Les Succès](le-gameplay/les-succes.md)
-* [📚 Les Manuscrits](le-gameplay/les-manuscrits.md)
+* [🌟 Les Trophés](le-gameplay/les-succes.md)
+* [📚 Les Parchemins](le-gameplay/les-manuscrits.md)
 * [🎁 Les Caisses](le-gameplay/les-caisses.md)
 * [💰 Le Shop](le-gameplay/le-shop.md)
 * [🐦‍⬛ Le Marché noir](le-gameplay/le-marche-noir.md)
@@ -26,7 +26,7 @@
 * [🛏️ L'AFK Zone](le-gameplay/l-afk-zone.md)
 * [🛠️ Les Outils évolutifs](le-gameplay/les-outils-evolutifs.md)
 * [💀 Les Spawners](le-gameplay/les-spawners.md)
-* [⚒️ La Forge](le-gameplay/la-forge.md)
+* [⚒️ L'Armurerie](le-gameplay/la-forge.md)
 * [🗓️ Les Événements](le-gameplay/les-evenements.md)
 * [🏆 Les Classements](le-gameplay/les-classements.md)
 * [🌍 Les Mondes](le-gameplay/les-mondes.md)
