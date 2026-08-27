@@ -2,11 +2,11 @@
 
 Les métiers sur VinlandCube vous permettent de gagner de l'argent et de suivre la progression de votre aventure.Il existe différents métiers :
 
-* **Fermier** : Récolter des cultures, reproduire des animaux, tondre des moutons et apprivoiser des animaux.
-* **Mineur** : Extraire des minerais et les faire cuire.
-* **Pêcheur** : Pêcher des ressources, cuire des poissons et les tuer directement.
-* **Chasseur** : Tuer des animaux, des monstres et des mobs personnalisés.
-* **Bûcheron** : Abattre des arbres, cuire le bois et l'écorcer.
+* 🌾 **Fermier** : Récolter des cultures, reproduire des animaux, tondre des moutons et apprivoiser des animaux.
+* ⛏️ **Mineur** : Extraire des minerais et les faire cuire.
+* 🎣 **Pêcheur** : Pêcher des ressources, cuire des poissons et les tuer directement.
+* 🏹 **Chasseur** : Tuer des animaux, des monstres et des mobs personnalisés.
+* 🌲 **Bûcheron** : Abattre des arbres, cuire le bois et l'écorcer.
 
 ### Les boosts métier <a href="#les-boosts-metier" id="les-boosts-metier"></a>
 

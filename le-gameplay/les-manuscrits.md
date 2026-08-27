@@ -9,7 +9,7 @@ Ces missions temporaires vous demandent de récolter des ressources ou de tuer d
 Elles sont forcément liées à l'un des métiers présents sur le serveur :
 
 * ⛏️ Mineur
-* 🌾 Agriculteur
+* 🌾 Fermier
 * 🌲 Bûcheron
 * 🎣 Pêcheur
 * 🏹 Chasseur
