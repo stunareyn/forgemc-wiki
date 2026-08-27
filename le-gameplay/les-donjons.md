@@ -2,18 +2,40 @@
 
 > Affronte des donjons pour gagner du loot et de l'expérience.
 
-## Comment y accéder
+Les failles apparaissent toutes les 30 minutes à un emplacement aléatoire dans le spawn. Leur type est également aléatoire.
 
-\[Explique comment lancer ou rejoindre un donjon : commande, PNJ, portail, clé requise...]
+Elles permettent de récupérer des loots pour crafter des armes et armures à l'armurerie, ainsi que de gagner des clés Farm.
 
-## Les différents donjons
+Il existe trois types de failles :
 
-\[Liste les donjons disponibles, leur difficulté et le nombre de joueurs recommandé.]
+## Faille du Croc Givré
 
-## Récompenses
+**Condition d'entrée :** à partir du Rang Exilé
 
-\[Détaille le loot, les clés, l'xp et les objets rares à gagner.]
+**Loots :**
 
-## Conseils
+* Peau de cuir (Basique)
+* Laine (Commun)
+* Ivoire (Rare)
 
-\[Astuces et stratégies pour réussir les donjons.]
+## Faille des Âmes Errantes
+
+**Condition d'entrée :** à partir du Rang Guerrier
+
+**Loots :**
+
+* Os (Commun)
+* Ectoplasme fantomatique (Rare)
+* Suintement nécrotique (Rare)
+* Fiole d'eau impie (Epique)
+
+## Faille d'Yggdrasil
+
+**Condition d'entrée :** à partir du Rang Berserk
+
+**Loots :**
+
+* Fourrure (Epique)
+* Graisse (Epique)
+* Pierre de lune (Légendaire)
+* Sel élémentaire (Légendaire)
