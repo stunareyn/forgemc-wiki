@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 🐦‍⬛ Le Marché noir
 
 > Des offres spéciales à durée limitée.

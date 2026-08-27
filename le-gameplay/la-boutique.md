@@ -1,12 +1,6 @@
 # 💎 La Boutique
 
-La boutique propose des grades, des clés et d’autres avantages en échange de gemmes. Les gemmes s’obtiennent sur https://vinlandcube.fr/.
-
-## Boutique
-
-La boutique du serveur vous propose, en échange de gemmes :
-
-
+La boutique propose des grades, des clés et d’autres avantages en échange de gemmes. Les gemmes s’obtiennent sur [https://vinlandcube.fr/.](https://vinlandcube.fr/)
 
 ## Les Grades
 
