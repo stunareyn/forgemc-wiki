@@ -11,6 +11,7 @@
 
 ## Le Gameplay
 
+* [🌎 Le OneBlock](le-gameplay/le-oneblock.md)
 * [🚪 Les Failles](le-gameplay/les-donjons.md)
 * [👨‍🌾 Les Métiers](le-gameplay/les-metiers.md)
 * [🌟 Les Trophés](le-gameplay/les-succes.md)
@@ -26,7 +27,7 @@
 * [⚒️ L'Armurerie](le-gameplay/la-forge.md)
 * [🗓️ Les Événements](le-gameplay/les-evenements.md)
 * [🏆 Les Classements](le-gameplay/les-classements.md)
-* [🍯 Atouts](le-gameplay/atouts.md)
+* [🍯 Les Atouts](le-gameplay/les-atouts.md)
 * [🗞️ La Quête communautaire](le-gameplay/la-quete-communautaire.md)
 * [🎁 Les Récompenses journalières](le-gameplay/les-recompenses-journalieres.md)
 * [💰 Les Primes](le-gameplay/les-primes.md)
