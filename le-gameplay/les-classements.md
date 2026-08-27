@@ -1,15 +1,14 @@
 # 🏆 Les Classements
 
-> Compare-toi aux autres joueurs via les classements.
+Le classement est un espace de compétition sur le serveur. Il permet aux joueurs de se challenger à travers les 10 catégories proposées :
 
-## Types de classements
-
-\[Argent, métiers, votes, temps de jeu...]
-
-## Récompenses
-
-\[Lots pour les meilleurs joueurs.]
-
-## Réinitialisation
-
-\[À quelle fréquence les classements sont remis à zéro.]
+* **Île** : Niveaux de l'île
+* **Temps de jeu** : Nombre total de temps passé sur le serveur
+* **Poissons péchés** : Nombre total de poissons péchés
+* **Monnaie** : Classement comme un `/baltop` trié par richesse
+* **Blocs minés** : Nombre total de blocs minés
+* **Parchemins** : Nombre total de parchemins complétés
+* **Monstres tués** : Nombre total de monstres tués
+* **Vote (Toujours)** : Nombre de votes effectués au total
+* **Vote (Par mois)** : Nombre de votes effectués ce mois-ci
+* **Cultures cassées** : Nombre total de cultures cassées

@@ -1,6 +1,5 @@
 # 👨‍🌾 Les Métiers
 
-\
 Les métiers sur VinlandCube vous permettent de gagner de l'argent et de suivre la progression de votre aventure.Il existe différents métiers :
 
 * **Fermier** : Récolter des cultures, reproduire des animaux, tondre des moutons et apprivoiser des animaux.

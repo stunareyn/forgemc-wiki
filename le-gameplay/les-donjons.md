@@ -1,7 +1,5 @@
 # 🚪 Les Failles
 
-> Affronte des donjons pour gagner du loot et de l'expérience.
-
 Les failles apparaissent toutes les 30 minutes à un emplacement aléatoire dans le spawn. Leur type est également aléatoire.
 
 Elles permettent de récupérer des loots pour crafter des armes et armures à l'armurerie, ainsi que de gagner des clés Farm.

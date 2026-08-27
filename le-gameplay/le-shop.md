@@ -1,4 +1,4 @@
-# 💰 Le Shop
+# 💵 Le Shop
 
 Sur VinlandCube, tu peux accéder au marché en te rendant au spawn sur la place du marché ou en utilisant la commande `/shop`. C'est l'endroit idéal pour vendre et acheter des blocs ou items aux villageois.
 

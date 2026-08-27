@@ -27,7 +27,7 @@ Les parchemins s'obtiennent contre des niveaux d'expérience dans le menu `/parc
 
 ## Parchemin Journalier (Basique)
 
-### Récompenses obtenables
+#### Récompenses obtenables
 
 * 1.500-5.000 pièces
 * 1x Spawner à Mouton
@@ -42,7 +42,7 @@ Les parchemins s'obtiennent contre des niveaux d'expérience dans le menu `/parc
 
 ## Parchemin Commun
 
-### Récompenses obtenables
+#### Récompenses obtenables
 
 * 1.500-5.000 pièces
 * 1x Spawner à Mouton
@@ -57,7 +57,7 @@ Les parchemins s'obtiennent contre des niveaux d'expérience dans le menu `/parc
 
 ## Parchemin Rare
 
-### Récompenses obtenables
+#### Récompenses obtenables
 
 * 10.000-25.000 pièces d'or
 * 1x Lingot de nétherite
@@ -79,7 +79,7 @@ Les parchemins s'obtiennent contre des niveaux d'expérience dans le menu `/parc
 
 ## Parchemin Epique
 
-### Récompenses obtenables
+#### Récompenses obtenables
 
 * 50.000-100.000 pièces d'or
 * 2x Lingot de Netherite
@@ -102,7 +102,7 @@ Les parchemins s'obtiennent contre des niveaux d'expérience dans le menu `/parc
 
 ## Parchemin Légendaire
 
-### Récompenses obtenables
+#### Récompenses obtenables
 
 * 200.000-300.000 pièces d'or
 * 1x Bloc de Netherite
