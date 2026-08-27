@@ -2,7 +2,7 @@
 
 Si vous souhaitez rejoindre notre serveur, assurez-vous d'avoir une version Premium de Minecraft. Veuillez noter que le serveur ne prend pas en charge la version Bedrock.
 
-🔗Adresse IP : play.vinlandcube
+🔗Adresse IP : play.vinlandcube.fr
 
 Version du serveur : **1.21.10**
 
