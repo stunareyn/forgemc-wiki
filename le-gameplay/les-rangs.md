@@ -8,7 +8,7 @@ Il existe 6 rangs différents sur VinlandCube, remplissez les prérequis pour d�
 {% step %}
 ## Rang Exilé (Rang par défaut)
 
-### Avantages
+#### Avantages
 
 * Bonus d'argent des Métiers 0%
 * Accès à 2 homes
@@ -21,7 +21,7 @@ Il existe 6 rangs différents sur VinlandCube, remplissez les prérequis pour d�
 * Accès à la Faille du Croc Givré
 * Accès à 1 métier en même temps
 
-### Commandes
+#### Commandes
 
 * Accès à la commande /trash
 * Accès à la commande /money
@@ -32,7 +32,7 @@ Il existe 6 rangs différents sur VinlandCube, remplissez les prérequis pour d�
 {% step %}
 ## Rang Pillard
 
-### Prérequis
+#### Prérequis
 
 * Niveau 5 Chasseur
 * Niveau 5 Fermier
@@ -41,7 +41,7 @@ Il existe 6 rangs différents sur VinlandCube, remplissez les prérequis pour d�
 * Terminer 1 Faille du Croc Givré
 * Payé 250000 pièces d'or
 
-### Avantages
+#### Avantages
 
 * Avantages du rang Exilé
 * Bonus d'argent des Métiers 5%
@@ -55,7 +55,7 @@ Il existe 6 rangs différents sur VinlandCube, remplissez les prérequis pour d�
 * 15 minutes d'AFK maximum
 * Accès à 1 métier simultanément
 
-### Commandes
+#### Commandes
 
 * Commandes du rang Exilé
 * Accès à la commande /loom
@@ -65,11 +65,11 @@ Il existe 6 rangs différents sur VinlandCube, remplissez les prérequis pour d�
 {% step %}
 ## Rang Guerrier
 
-### Prérequis
+#### Prérequis
 
 À définir
 
-### Avantages
+#### Avantages
 
 * Avantages du rang Pillard
 * Bonus d'argent des Métiers 10%
@@ -84,7 +84,7 @@ Il existe 6 rangs différents sur VinlandCube, remplissez les prérequis pour d�
 * Accès à la Faille des Âmes Errantes
 * Accès à 2 métiers simultanément
 
-### Commandes
+#### Commandes
 
 * Commandes du rang Pillard
 * Accès à la commande /feed
@@ -95,11 +95,11 @@ Il existe 6 rangs différents sur VinlandCube, remplissez les prérequis pour d�
 {% step %}
 ## Rang Jarl
 
-### Prérequis
+#### Prérequis
 
 À définir
 
-### Avantages
+#### Avantages
 
 * Avantages du rang Guerrier
 * Bonus d'argent des Métiers 15%
@@ -113,7 +113,7 @@ Il existe 6 rangs différents sur VinlandCube, remplissez les prérequis pour d�
 * 35 minutes d'AFK maximum
 * Accès à 3 métiers simultanément
 
-### Commandes
+#### Commandes
 
 * Commandes du rang Guerrier
 * Accès à la commande /ec
@@ -124,11 +124,11 @@ Il existe 6 rangs différents sur VinlandCube, remplissez les prérequis pour d�
 {% step %}
 ## Rang Berserk
 
-### Prérequis
+#### Prérequis
 
 À définir
 
-### Avantages
+#### Avantages
 
 * Avantages du rang Jarl
 * Bonus d'argent des Métiers 20%
@@ -142,7 +142,7 @@ Il existe 6 rangs différents sur VinlandCube, remplissez les prérequis pour d�
 * Accès à la Faille d'Yggdrasil
 * Accès à 4 métiers simultanément
 
-### Commandes
+#### Commandes
 
 * Commandes du rang Jarl
 * Accès à la commande /repair
@@ -156,11 +156,11 @@ Il existe 6 rangs différents sur VinlandCube, remplissez les prérequis pour d�
 {% step %}
 ## Rang Vinlandais
 
-### Prérequis
+#### Prérequis
 
 À définir
 
-### Avantages
+#### Avantages
 
 * Avantages du rang Berserk
 * Bonus d'argent des Métiers 25%
@@ -174,7 +174,7 @@ Il existe 6 rangs différents sur VinlandCube, remplissez les prérequis pour d�
 * 1 heure d'AFK maximum
 * Accès à 5 métiers simultanément
 
-### Commandes
+#### Commandes
 
 * Commandes du rang Berserk
 * Accès à la commande /fly
