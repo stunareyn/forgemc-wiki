@@ -45,6 +45,7 @@ Les **primes** sont des **objectifs journaliers** que vous pouvez accomplir en �
 * 1x Crâne
 * 2.500 pièces d'or
 * 1x Clé Farm \[TIER I]
+* 25 niveaux d'île
 
 ***
 
@@ -55,6 +56,7 @@ Les **primes** sont des **objectifs journaliers** que vous pouvez accomplir en �
 * 2x Crâne
 * 5.000 pièces d'or
 * 1x Clé Farm \[TIER II]
+* 50 niveaux d'île
 
 ***
 
@@ -65,6 +67,7 @@ Les **primes** sont des **objectifs journaliers** que vous pouvez accomplir en �
 * 3x Crâne
 * 10.000 pièces d'or
 * 1x Clé Farm \[TIER III]
+* 250 niveaux d'île
 
 ***
 
@@ -75,3 +78,4 @@ Les **primes** sont des **objectifs journaliers** que vous pouvez accomplir en �
 * 10x Crâne
 * 25.000 pièces d'or
 * 1x Clé Valkyrie
+* 500 niveaux d'île

@@ -46,13 +46,40 @@ Chaque phase apporte son lot de **nouveaux blocs, mobs et loot** pour renouveler
 
 ***
 
-### ⚔️ Un Mode Sans Danger
+### ⛏️ Le Générateur
 
-Bonne nouvelle : **les mobs n'infligent aucun dégât** ! Vous pouvez donc :
+Le bloc généré n'est **pas toujours de la cobblestone** ! Le générateur peut produire une grande variété de blocs, notamment :
 
-* 🌾 Miner et explorer **sereinement**, sans crainte de mourir
-* ⚔️ Combattre les monstres pour leurs **drops**, sans risque
-* 🎯 Vous concentrer sur la **progression** plutôt que sur la survie
+* 🪨 De la **pierre** (stone)
+* 💎 Des **minerais** (fer, or, diamant, etc.)
+* Et bien d'autres surprises selon ta progression !
+
+Plus tu avances, plus les blocs générés peuvent devenir intéressants et rares.
+
+***
+
+### 📈 Les Améliorations d'île
+
+Au fil de ta progression, tu peux débloquer diverses **améliorations** pour ton île OneBlock. Ces améliorations permettent de :
+
+* 📏 **Augmenter la taille de l'île**
+* 📦 **Augmenter le nombre de /is chest** disponibles
+* 👾 **Accélérer l'apparition des mobs**
+* ⚙️ **Améliorer le générateur** (débloquer de meilleurs blocs/minerais)
+* 💰 **Multiplier les butins de monstres**
+* 🔧 **Augmenter la limite d'entonnoirs**
+* 🎯 **Augmenter la limite de pistons**
+* 👥 **Augmenter la limite de membres** sur l'île
+
+Ces améliorations sont essentielles pour progresser efficacement et optimiser ton île sur le long terme.
+
+***
+
+### 🏆 Classement OneBlock
+
+Il existe un **classement dédié au OneBlock** avec des récompenses à la clé pour les meilleurs joueurs !
+
+➡️ Rends-toi dans la section [**Les Classements**](les-classements.md) pour en savoir plus sur les critères et les récompenses associées.
 
 ***
 
@@ -62,8 +89,3 @@ Bonne nouvelle : **les mobs n'infligent aucun dégât** ! Vous pouvez donc :
 * 💰 Idéal pour développer son île et son économie
 * 🤝 Jouable **seul ou en équipe**
 * 🏝️ Chaque île est **indépendante**, votre aventure est unique !
-* 🛡️ Un mode **détendu**, sans pression liée aux dégâts des mobs
-
-***
-
-💡 **Astuce :** Sans danger de mort par les mobs, profitez-en pour explorer chaque phase à fond et récolter un maximum de ressources avant de passer à la suivante !
