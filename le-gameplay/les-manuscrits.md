@@ -1,4 +1,4 @@
-# 📚 Les Parchemins
+# 📜 Les Parchemins
 
 ## Qu'est-ce qu'un parchemin ?
 

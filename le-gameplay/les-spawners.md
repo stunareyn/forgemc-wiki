@@ -1,34 +1,61 @@
 # 💀 Les Spawners
 
-Les spawners s’obtiennent dans les caisses, via les parchemins ou dans `/boutique`.
+Les spawners s'obtiennent de plusieurs façons :
 
-Voici la liste des différents spawners actuellement disponibles sur le serveur. Ils sont obtenables en ouvrant des caisses, en complétant des parchemins ou en les achetant dans la boutique (`/boutique`).
+* 📦 Dans les **caisses**
+* 📜 Via les **parchemins**
+* 💎 Dans la **`/boutique`**
 
-| Spawner                    |   Rareté   |     Prix    |
-| -------------------------- | :--------: | :---------: |
-| Spawner à Vache            |   Commun   |  150 Gemmes |
-| Spawner à Poulet           |   Commun   |  150 Gemmes |
-| Spawner à Mouton           |   Commun   |  150 Gemmes |
-| Spawner à Cochon           |   Commun   |  150 Gemmes |
-| Spawner à Lapin            |   Commun   |  150 Gemmes |
-| Spawner à Panda            |   Commun   |  200 Gemmes |
-| Spawner à Loup             |   Commun   |  200 Gemmes |
-| Spawner à Ours Polaire     |   Commun   |  250 Gemmes |
-| Spawner à Zombie           |    Rare    |  250 Gemmes |
-| Spawner à Squelette        |    Rare    |  300 Gemmes |
-| Spawner à Araignée         |    Rare    |  300 Gemmes |
-| Spawner à Creeper          |    Rare    |  400 Gemmes |
-| Spawner à Blaze            |   Epique   |  500 Gemmes |
-| Spawner à Enderman         |   Epique   |  500 Gemmes |
-| Spawner à Slime            |   Epique   |  500 Gemmes |
-| Spawner à Noyé             |   Epique   |  500 Gemmes |
-| Spawner à Sorcière         |   Epique   |  500 Gemmes |
-| Spawner à Magma Cube       |   Epique   |  700 Gemmes |
-| Spawner à Piglin zombifié  |   Epique   |  700 Gemmes |
-| Spawner à Cheval-Squelette |   Epique   |  500 Gemmes |
-| Spawner à Guardian         | Légendaire |  850 Gemmes |
-| Spawner à Golem de fer     | Légendaire | 1000 Gemmes |
-| Spawner à Vindicateur      | Légendaire | 1250 Gemmes |
-| Spawner à Evocateur        | Légendaire | 1250 Gemmes |
+***
 
-<br>
+### 📋 Liste des spawners disponibles
+
+#### 🟢 Communs
+
+| Spawner            | Prix       |
+| ------------------ | ---------- |
+| 🐄 Vache           | 150 Gemmes |
+| 🐔 Poulet          | 150 Gemmes |
+| 🐑 Mouton          | 150 Gemmes |
+| 🐷 Cochon          | 150 Gemmes |
+| 🐰 Lapin           | 150 Gemmes |
+| 🐼 Panda           | 200 Gemmes |
+| 🐺 Loup            | 200 Gemmes |
+| 🐻‍❄️ Ours Polaire | 250 Gemmes |
+
+***
+
+#### 🔵 Rares
+
+| Spawner      | Prix       |
+| ------------ | ---------- |
+| 🧟 Zombie    | 250 Gemmes |
+| 💀 Squelette | 300 Gemmes |
+| 🕷️ Araignée | 300 Gemmes |
+| 💥 Creeper   | 400 Gemmes |
+
+***
+
+#### 🟣 Épiques
+
+| Spawner               | Prix       |
+| --------------------- | ---------- |
+| 🔥 Blaze              | 500 Gemmes |
+| 👤 Enderman           | 500 Gemmes |
+| 🟢 Slime              | 500 Gemmes |
+| 🌊 Noyé               | 500 Gemmes |
+| 🧙 Sorcière           | 500 Gemmes |
+| 🐎 Cheval-Squelette   | 500 Gemmes |
+| 🔥 Magma Cube         | 700 Gemmes |
+| 🧟‍♂️ Piglin Zombifié | 700 Gemmes |
+
+***
+
+#### 🟠 Légendaires
+
+| Spawner         | Prix        |
+| --------------- | ----------- |
+| 🦑 Guardian     | 850 Gemmes  |
+| 🤖 Golem de Fer | 1000 Gemmes |
+| ⚔️ Vindicateur  | 1250 Gemmes |
+| 🔮 Évocateur    | 1250 Gemmes |

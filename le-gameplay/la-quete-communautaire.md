@@ -2,7 +2,7 @@
 
 Une **quête communautaire** est active sur le serveur : tous les joueurs partagent le même objectif et progressent ensemble pour l'accomplir !
 
-### 🎯 Fonctionnement
+### ⚙️ Fonctionnement
 
 Dès que l'objectif est atteint, **tous les joueurs ayant participé** reçoivent automatiquement :
 
