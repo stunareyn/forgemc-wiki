@@ -1,17 +1,54 @@
 # 👨‍🌾 Les Métiers
 
-Les métiers sur VinlandCube vous permettent de gagner de l'argent et de suivre la progression de votre aventure.Il existe différents métiers :
+## 💼 Les Métiers
 
-* 🌾 **Fermier** : Récolter des cultures, reproduire des animaux, tondre des moutons et apprivoiser des animaux.
-* ⛏️ **Mineur** : Extraire des minerais et les faire cuire.
-* 🎣 **Pêcheur** : Pêcher des ressources, cuire des poissons et les tuer directement.
-* 🏹 **Chasseur** : Tuer des animaux, des monstres et des mobs personnalisés.
-* 🌲 **Bûcheron** : Abattre des arbres, cuire le bois et l'écorcer.
+### Présentation
 
-#### Les boosts métier <a href="#les-boosts-metier" id="les-boosts-metier"></a>
+Les **métiers** sur VinlandCube vous permettent de **gagner de l'argent** tout en suivant votre **progression** au fil de votre aventure.
 
-Vous trouverez des boosts métier, vous permettant d'augmenter l'XP récolté par action.Les boosts ont différentes raretés qui leur confèrent un effet d'une durée variable ainsi qu'un pourcentage d'XP plus ou moins élevé.Pour l'activer, il vous suffira de cliquer dans le vide avec votre boost en main.<br>
+***
 
-#### Commandes utiles
+### 📋 Liste des métiers
 
-&#x20;`/jobs browse`, `/jobs join <métier>`, `/jobs info <métier>`, `/jobs stats`
+#### 🌾 Fermier
+
+Récolter des cultures, reproduire des animaux, tondre des moutons et apprivoiser des animaux.
+
+#### ⛏️ Mineur
+
+Extraire des minerais et les faire cuire.
+
+#### 🎣 Pêcheur
+
+Pêcher des ressources, cuire des poissons et les tuer directement.
+
+#### 🏹 Chasseur
+
+Tuer des animaux, des monstres et des mobs personnalisés.
+
+#### 🌲 Bûcheron
+
+Abattre des arbres, cuire le bois et l'écorcer.
+
+***
+
+### ⚡ Les Boosts Métier
+
+Les **boosts métier** vous permettent d'**augmenter l'XP récolté** par action effectuée dans votre métier.
+
+* Les boosts possèdent différentes **raretés**
+* Chaque rareté confère une **durée d'effet** et un **pourcentage d'XP bonus** variable
+* **Activation :** cliquez dans le vide avec le boost en main
+
+***
+
+### 💻 Commandes utiles
+
+Copier le tableau
+
+| Commande              | Effet                                        |
+| --------------------- | -------------------------------------------- |
+| `/jobs browse`        | Consulter la liste des métiers disponibles   |
+| `/jobs join <métier>` | Rejoindre un métier                          |
+| `/jobs info <métier>` | Voir les informations détaillées d'un métier |
+| `/jobs stats`         | Consulter vos statistiques de métier         |

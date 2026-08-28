@@ -1,43 +1,58 @@
 # 💰 Les Primes
 
-## Primes quotidiennes
+## 🎯 Primes Quotidiennes
 
-Les primes sont des objectifs journaliers que vous pouvez compléter en échange de récompenses, notamment pour obtenir des crânes qui vous seront très utiles pour le marché noir.
+### Qu'est-ce qu'une prime ?
 
-Vous pouvez changer l'objectif souhaité seulement 3 fois par jour.
+Les **primes** sont des **objectifs journaliers** que vous pouvez accomplir en échange de récompenses, notamment des **crânes**, très utiles pour effectuer des échanges au **marché noir**.
 
-Vous pouvez y accéder à l'aide de la commande `/primes` ou en cliquant sur le panneau des primes au spawn.
+> 🔄 Vous pouvez **changer l'objectif** souhaité **3 fois par jour maximum**.
 
-Il existe différentes difficultés de primes qui vous donnent des récompenses différentes :
+***
 
-### Prime Facile (6 par jour)
+### 🎮 Comment y accéder ?
+
+* Via la commande **/primes**
+* En cliquant sur le **panneau des primes** situé au **spawn**
+
+***
+
+### 📊 Difficultés & Récompenses
+
+#### 🟢 Prime Facile _(6 par jour)_
 
 **Récompenses :**
 
 * 1x Crâne
-* 2500 pièces d'or
+* 2.500 pièces d'or
 * 1x Clé Farm \[TIER I]
 
-### Prime Moyenne (3 par jour)
+***
+
+#### 🟡 Prime Moyenne _(3 par jour)_
 
 **Récompenses :**
 
 * 2x Crâne
-* 5000 pièces d'or
+* 5.000 pièces d'or
 * 1x Clé Farm \[TIER II]
 
-### Prime Difficile (3 par jour)
+***
+
+#### 🟠 Prime Difficile _(3 par jour)_
 
 **Récompenses :**
 
 * 3x Crâne
-* 10000 pièces d'or
+* 10.000 pièces d'or
 * 1x Clé Farm \[TIER III]
 
-### Prime Hardcore (2 par jour)
+***
+
+#### 🔴 Prime Hardcore _(2 par jour)_
 
 **Récompenses :**
 
 * 10x Crâne
-* 25000 pièces d'or
+* 25.000 pièces d'or
 * 1x Clé Valkyrie
