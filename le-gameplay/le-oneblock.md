@@ -77,7 +77,7 @@ Ces améliorations sont essentielles pour progresser efficacement et optimiser t
 
 ### 🏆 Classement OneBlock
 
-Il existe un **classement dédié au OneBlock** avec des récompenses à la clé pour les meilleurs joueurs !
+Il existe un **classement dédié au OneBlock** avec des récompenses pour les meilleurs joueurs !
 
 ➡️ Rends-toi dans la section [**Les Classements**](les-classements.md) pour en savoir plus sur les critères et les récompenses associées.
 

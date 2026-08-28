@@ -169,7 +169,7 @@ L'abonnement premium t'offre des avantages exclusifs :
 
 ### 🔑 Les Clés
 
-Différentes caisses sont disponibles au spawn, offrant des items exclusifs et des boosts pour ton aventure. Plus d'informations sur la page **« Les caisses »**.
+Différentes caisses sont disponibles au spawn, offrant des items exclusifs et des boosts pour ton aventure. Plus d'informations sur la section [**Les Caisses**](les-caisses.md).
 
 #### Clé Mystique
 
