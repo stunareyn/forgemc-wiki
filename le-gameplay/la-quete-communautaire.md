@@ -1,3 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: false
+---
+
 # 🗞️ La Quête communautaire
 
 Une **quête communautaire** est active sur le serveur : tous les joueurs partagent le même objectif et progressent ensemble pour l'accomplir !

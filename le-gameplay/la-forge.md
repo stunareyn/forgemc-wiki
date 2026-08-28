@@ -1,3 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: false
+---
+
 # ⚒️ L'Armurerie
 
 L'armurerie permet de fabriquer des **armures** et **objets utiles** contre les monstres des Failles, en échangeant les loots récupérés lors de vos combats.
