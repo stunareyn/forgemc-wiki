@@ -31,3 +31,4 @@
 * [⚒️ L'Armurerie](le-gameplay/la-forge.md)
 * [🏆 Les Classements](le-gameplay/les-classements.md)
 * [🍯 Les Atouts](le-gameplay/les-atouts.md)
+* [🔥 Les Pouvoirs](le-gameplay/les-pouvoirs.md)
