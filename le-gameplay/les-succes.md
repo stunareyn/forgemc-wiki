@@ -1,6 +1,6 @@
 # 🌟 Les Trophés
 
-### Qu'est-ce qu'un trophée ?
+### 📖 Qu'est-ce qu'un trophée ?
 
 Les **12 trophées** attestent de votre **progression** et prouvent votre **valeur sur le serveur**.
 

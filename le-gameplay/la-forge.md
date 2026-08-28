@@ -1,7 +1,5 @@
 # ⚒️ L'Armurerie
 
-## ⚒️ L'Armurerie _(mise à jour)_
-
 L'armurerie permet de fabriquer des **armures** et **objets utiles** contre les monstres des Failles, en échangeant les loots récupérés lors de vos combats.
 
 ***

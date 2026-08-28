@@ -1,6 +1,6 @@
 # 🌀 Les Failles
 
-### Qu'est-ce qu'une faille ?
+### 📖 Qu'est-ce qu'une faille ?
 
 Les **failles** apparaissent **toutes les 30 minutes** à un **emplacement aléatoire** au spawn. Leur **type** est également déterminé aléatoirement.
 

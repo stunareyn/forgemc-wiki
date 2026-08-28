@@ -1,6 +1,6 @@
 # 📦 Les Caisses
 
-### Qu'est-ce qu'une caisse ?
+### 📖 Qu'est-ce qu'une caisse ?
 
 Les **Caisses** sont accessibles au `/warp caisse`. Pour les ouvrir, il vous suffit de **cliquer sur la caisse avec la clé** correspondante. Cela lance l'animation et vous donne votre récompense !
 
@@ -19,57 +19,83 @@ Les clés peuvent être obtenues de différentes manières :
 
 <details>
 
-<summary>Caisse Vote</summary>
+<summary>📦 Caisse Vote</summary>
 
-#### Épée du Paysan (Basique)
+#### ⚔️ Épée du Paysan (Basique) — 3.34%
+
+**Enchantements :**
 
 * Tranchant 5
 * Chatîment 5
 * Fléau des arthropodes 5
 * Affilage 3
 * Butin 3
-* 150 de durabilités (réparable)
-* Chance d'obtention : 3.34%
 
-#### Pioche du Paysan (Basique)
+**Durabilité maximum :** 150 _(réparable)_
 
-* Efficacité 5
-* 150 de durabilités (réparable)
-* Chance d'obtention : 3.34%
+***
 
-#### Pelle du Paysan (Basique)
+#### ⛏️ Pioche du Paysan (Basique) — 3.34%
+
+**Enchantements :**
 
 * Efficacité 5
-* 150 de durabilités (réparable)
-* Chance d'obtention : 3.34%
 
-#### Hache du Paysan (Basique)
+**Durabilité maximum :** 150 _(réparable)_
 
-* Efficacité 5
-* 150 de durabilités (réparable)
-* Chance d'obtention : 3.34%
+***
 
-#### Houe du Paysan (Basique)
+#### 🥄 Pelle du Paysan (Basique) — 3.34%
 
-* Effet : Casse et replante vos cultures dans un rayon de 1x1 blocs.
-* 150 de durabilités (non réparable)
-* Chance d'obtention : 3.34%
-
-#### Multitool du Paysan (Basique)
+**Enchantements :**
 
 * Efficacité 5
-* Effet : Cet outil s'adapte au bloc que vous essayez de casser.
-* 500 de durabilités (non réparable)
-* Chance d'obtention : 3.34%
 
-#### Bâton du Paysan (Basique)
+**Durabilité maximum :** 150 _(réparable)_
 
-* Effet : Clic droit sur un coffre pour vendre l'intégralité de son contenue.
-* Multiplicateur : +0%
-* 10 de durabilités (non réparable)
-* Chance d'obtention : 3.34%
+***
 
+#### 🪓 Hache du Paysan (Basique) — 3.34%
 
+**Enchantements :**
+
+* Efficacité 5
+
+**Durabilité maximum :** 150 _(réparable)_
+
+***
+
+#### 🌾 Houe du Paysan (Basique) — 3.34%
+
+**Effet :** Casse et replante vos cultures dans un rayon de 1x1 blocs.
+
+**Durabilité maximum :** 150 _(non réparable)_
+
+***
+
+#### 🛠️ Multitool du Paysan (Basique) — 3.34%
+
+**Enchantements :**
+
+* Efficacité 5
+
+**Effet :** Cet outil s'adapte au bloc que vous essayez de casser.
+
+**Durabilité maximum :** 500 _(non réparable)_
+
+***
+
+#### 🪄 Bâton du Paysan (Basique) — 3.34%
+
+**Effet :** Clic droit sur un coffre pour vendre l'intégralité de son contenu.
+
+**Multiplicateur :** +0%
+
+**Durabilité maximum :** 10 _(non réparable)_
+
+***
+
+#### 💰 Autres récompenses
 
 | Récompense                      | Chance |
 | ------------------------------- | ------ |
@@ -89,71 +115,103 @@ Les clés peuvent être obtenues de différentes manières :
 
 <details>
 
-<summary>Caisse Mystique</summary>
+<summary>🔮 Caisse Mystique</summary>
 
-#### Épée du Huscarl (Rare)
+#### ⚔️ Épée du Huscarl (Rare) — 5.81%
+
+**Enchantements :**
 
 * Tranchant 5
 * Chatîment 5
 * Fléau des arthropodes 5
 * Affilage 3
 * Butin 3
-* 6000 de durabilités (réparable)
-* Chance d'obtention : 5.81%
 
-#### Pioche du Huscarl (Rare)
+**Durabilité maximum :** 6.000 _(réparable)_
 
-* Efficacité 5
-* 5000 de durabilités (réparable)
-* Chance d'obtention : 5.81%
+***
 
-#### Pelle du Huscarl (Rare)
+#### ⛏️ Pioche du Huscarl (Rare) — 5.81%
+
+**Enchantements :**
 
 * Efficacité 5
-* 5000 de durabilités (réparable)
-* Chance d'obtention : 5.81%
 
-#### Hache du Huscarl (Rare)
+**Durabilité maximum :** 5.000 _(réparable)_
 
-* Efficacité 5
-* 5000 de durabilités (réparable)
-* Chance d'obtention : 5.81%
+***
 
-#### Houe du Huscarl (Rare)
+#### 🥄 Pelle du Huscarl (Rare) — 5.81%
 
-* Effet : Casse et replante vos cultures dans un rayon de 2x2 blocs.
-* 5000 de durabilités (non réparable)
-* Chance d'obtention : 5.81%
-
-#### Multitool du Huscarl (Rare)
+**Enchantements :**
 
 * Efficacité 5
-* Effet : Cet outil s'adapte au bloc que vous essayez de casser.
-* 3500 de durabilités (non réparable)
-* Chance d'obtention : 5.81%
 
-#### Bâton du Huscarl (Rare)
+**Durabilité maximum :** 5.000 _(réparable)_
 
-* Effet : Clic droit sur un coffre pour vendre l'intégralité de son contenue.
-* Multiplicateur : +10%
-* 20 de durabilités (non réparable)
-* Chance d'obtention : 5.81%
+***
 
-#### Boost Rare +50% (Rare)
+#### 🪓 Hache du Huscarl (Rare) — 5.81%
 
-* Effet : Buvez cette potion pour boost l'XP et l'Argent de vos Métiers pendant 30 minutes.
-* Chance d'obtention : 5.81%
+**Enchantements :**
 
-#### Plume de fly (Rare)
+* Efficacité 5
 
-* Effet : Cette Plume de fly vous offre 30 minutes de vol grâce à la commande `/fly`.
-* Chance d'obtention : 5.81%
+**Durabilité maximum :** 5.000 _(réparable)_
 
-#### Gemme de réparation (Rare)
+***
 
-* Effet : Cette gemme ajoute 500 de durabilité à un outil qui est réparable
-* Utilisation : Glissez la gemme sur l'outil de votre choix pour ajouter de la durabilité
-* Chance d'obtention : 5.81%
+#### 🌾 Houe du Huscarl (Rare) — 5.81%
+
+**Effet :** Casse et replante vos cultures dans un rayon de 2x2 blocs.
+
+**Durabilité maximum :** 5.000 _(non réparable)_
+
+***
+
+#### 🛠️ Multitool du Huscarl (Rare) — 5.81%
+
+**Enchantements :**
+
+* Efficacité 5
+
+**Effet :** Cet outil s'adapte au bloc que vous essayez de casser.
+
+**Durabilité maximum :** 3.500 _(non réparable)_
+
+***
+
+#### 🪄 Bâton du Huscarl (Rare) — 5.81%
+
+**Effet :** Clic droit sur un coffre pour vendre l'intégralité de son contenu.
+
+**Multiplicateur :** +10%
+
+**Durabilité maximum :** 20 _(non réparable)_
+
+***
+
+#### 🧪 Boost Rare +50% (Rare) — 5.81%
+
+**Effet :** Buvez cette potion pour boost l'XP et l'Argent de vos Métiers pendant 30 minutes.
+
+***
+
+#### 🪶 Plume de fly (Rare) — 5.81%
+
+**Effet :** Cette Plume de fly vous offre 30 minutes de vol grâce à la commande /fly.
+
+***
+
+#### 💎 Gemme de réparation (Rare) — 5.81%
+
+**Effet :** Cette gemme ajoute 500 de durabilité à un outil qui est réparable.
+
+**Utilisation :** Glissez la gemme sur l'outil de votre choix pour ajouter de la durabilité.
+
+***
+
+#### 💰 Autres récompenses
 
 | Récompense                 | Chance |
 | -------------------------- | ------ |
@@ -170,73 +228,108 @@ Les clés peuvent être obtenues de différentes manières :
 
 <details>
 
-<summary>Caisse Divine</summary>
+<summary>✨ Caisse Divine</summary>
 
-#### Épée du Ragnar (Légendaire)
+#### ⚔️ Épée du Ragnar (Légendaire) — 3.57%
+
+**Enchantements :**
 
 * Tranchant 6
 * Chatîment 4
 * Fléau des arthropodes 4
 * Affilage 3
 * Butin 5
-* 25000 de durabilités (réparable)
-* Chance d'obtention : 3.57%
 
-#### Pioche du Ragnar (Légendaire)
+**Durabilité maximum :** 25.000 _(réparable)_
+
+***
+
+#### ⛏️ Pioche du Ragnar (Légendaire) — 3.57%
+
+**Enchantements :**
 
 * Efficacité 6
 * Fortune 4
-* 25000 de durabilités (réparable)
-* Chance d'obtention : 3.57%
 
-#### Pelle du Ragnar (Légendaire)
+**Durabilité maximum :** 25.000 _(réparable)_
 
-* Efficacité 6
-* 25000 de durabilités (réparable)
-* Chance d'obtention : 3.57%
+***
 
-#### Hache du Ragnar (Légendaire)
+#### 🥄 Pelle du Ragnar (Légendaire) — 3.57%
+
+**Enchantements :**
 
 * Efficacité 6
-* 25000 de durabilités (réparable)
-* Chance d'obtention : 3.57%
 
-#### Houe du Ragnar (Légendaire)
+**Durabilité maximum :** 25.000 _(réparable)_
+
+***
+
+#### 🪓 Hache du Ragnar (Légendaire) — 3.57%
+
+**Enchantements :**
+
+* Efficacité 6
+
+**Durabilité maximum :** 25.000 _(réparable)_
+
+***
+
+#### 🌾 Houe du Ragnar (Légendaire) — 3.57%
+
+**Enchantements :**
 
 * Fortune 4
-* Effet : Casse et replante vos cultures dans un rayon de 3x3 blocs.
-* 10000 de durabilités (non réparable)
-* Chance d'obtention : 3.57%
 
-#### Multitool du Ragnar (Légendaire)
+**Effet :** Casse et replante vos cultures dans un rayon de 3x3 blocs.
+
+**Durabilité maximum :** 10.000 _(non réparable)_
+
+***
+
+#### 🛠️ Multitool du Ragnar (Légendaire) — 3.57%
+
+**Enchantements :**
 
 * Efficacité 6
-* Effet : Cet outil s'adapte au bloc que vous essayez de casser.
-* 12500 de durabilités (non réparable)
-* Chance d'obtention : 3.57%
 
-#### Bâton du Ragnar (Légendaire)
+**Effet :** Cet outil s'adapte au bloc que vous essayez de casser.
 
-* Effet : Clic droit sur un coffre pour vendre l'intégralité de son contenue.
-* Multiplicateur : +40%
-* 50 de durabilités (non réparable)
-* Chance d'obtention : 3.57%
+**Durabilité maximum :** 12.500 _(non réparable)_
 
-#### Boost Légendaire +50% (Légendaire)
+***
 
-* Effet : Buvez cette potion pour boost l'XP et l'Argent de vos Métiers pendant 2 heures.
-* Chance d'obtention : 8.93%
+#### 🪄 Bâton du Ragnar (Légendaire) — 3.57%
 
-#### Plume de fly (Légendaire)
+**Effet :** Clic droit sur un coffre pour vendre l'intégralité de son contenu.
 
-* Effet : Cette Plume de fly vous offre 2 heures de vol grâce à la commande `/fly`.
-* Chance d'obtention : 8.93%
+**Multiplicateur :** +40%
 
-#### Gemme de réparation (Légendaire)
+**Durabilité maximum :** 50 _(non réparable)_
 
-* Effet : Cette gemme ajoute 2500 de durabilité à un outil qui est réparable
-* Utilisation : Glissez la gemme sur l'outil de votre choix pour ajouter de la durabilité
-* Chance d'obtention : 8.93%
+***
+
+#### 🧪 Boost Légendaire +50% (Légendaire) — 8.93%
+
+**Effet :** Buvez cette potion pour boost l'XP et l'Argent de vos Métiers pendant 2 heures.
+
+***
+
+#### 🪶 Plume de fly (Légendaire) — 8.93%
+
+**Effet :** Cette Plume de fly vous offre 2 heures de vol grâce à la commande /fly.
+
+***
+
+#### 💎 Gemme de réparation (Légendaire) — 8.93%
+
+**Effet :** Cette gemme ajoute 2.500 de durabilité à un outil qui est réparable.
+
+**Utilisation :** Glissez la gemme sur l'outil de votre choix pour ajouter de la durabilité.
+
+***
+
+#### 💰 Autres récompenses
 
 | Récompense                  | Chance |
 | --------------------------- | ------ |
@@ -253,218 +346,311 @@ Les clés peuvent être obtenues de différentes manières :
 
 <details>
 
-<summary>Caisse Valkyrie</summary>
+<summary>⚔️ Caisse Valkyrie</summary>
 
-#### Casque de Valkyrie (Collection)
+#### 🪖 Casque de Valkyrie (Collection) — 3.3%
+
+**Enchantements :**
 
 * Protection 5
 * Apnée 3
 * Affinité aquatique
 * Epines 3
-* Effets (nécessite l'armure complète) :
-  * 2 coeurs supplémentaire
-  * Célérité 2
-  * Rapidité 1
-  * Vision Nocturne
-  * Saturation
-  * Surbrillance
-  * +50% de résistance contre tous les monstres des failles
-* Chance d'obtention : 3.3%
 
-#### Plastron de Valkyrie (Collection)
+**Effet (armure complète) :**
 
-* Protection 5
-* Epines 3
-* Effets (nécessite l'armure complète) :
-  * 2 coeurs supplémentaire
-  * Célérité 2
-  * Rapidité 1
-  * Vision Nocturne
-  * Saturation
-  * Surbrillance
-  * +50% de résistance contre tous les monstres des failles
-* Chance d'obtention : 3.3%
+* +2 cœurs
+* Célérité 2
+* Rapidité 1
+* Vision Nocturne
+* Saturation
+* Surbrillance
+* +50% résistance contre les monstres des failles
 
-#### Pantalon de Valkyrie (Collection)
+***
+
+#### 🛡️ Plastron de Valkyrie (Collection) — 3.3%
+
+**Enchantements :**
 
 * Protection 5
 * Epines 3
-* Effets (nécessite l'armure complète) :
-  * 2 coeurs supplémentaire
-  * Célérité 2
-  * Rapidité 1
-  * Vision Nocturne
-  * Saturation
-  * Surbrillance
-  * +50% de résistance contre tous les monstres des failles
-* Chance d'obtention : 3.3%
 
-#### Bottes de Valkyrie (Collection)
+**Effet (armure complète) :**
+
+* +2 cœurs
+* Célérité 2
+* Rapidité 1
+* Vision Nocturne
+* Saturation
+* Surbrillance
+* +50% résistance contre les monstres des failles
+
+***
+
+#### 👖 Pantalon de Valkyrie (Collection) — 3.3%
+
+**Enchantements :**
+
+* Protection 5
+* Epines 3
+
+**Effet (armure complète) :**
+
+* +2 cœurs
+* Célérité 2
+* Rapidité 1
+* Vision Nocturne
+* Saturation
+* Surbrillance
+* +50% résistance contre les monstres des failles
+
+***
+
+#### 👢 Bottes de Valkyrie (Collection) — 3.3%
+
+**Enchantements :**
 
 * Protection 5
 * Chute amortie 4
 * Agilité aquatique 3
 * Epines 3
-* Effets (nécessite l'armure complète) :
-  * 2 coeurs supplémentaire
-  * Célérité 2
-  * Rapidité 1
-  * Vision Nocturne
-  * Saturation
-  * Surbrillance
-  * +50% de résistance contre tous les monstres des failles
-* Chance d'obtention : 3.3%
 
-#### Épée de Valkyrie
+**Effet (armure complète) :**
+
+* +2 cœurs
+* Célérité 2
+* Rapidité 1
+* Vision Nocturne
+* Saturation
+* Surbrillance
+* +50% résistance contre les monstres des failles
+
+***
+
+#### ⚔️ Épée de Valkyrie (Collection) — 3.3%
+
+**Enchantements :**
 
 * Tranchant 7
 * Chatîment 6
 * Fléau des arthropodes 6
 * Affilage 4
 * Butin 6
-* Effet : +50% de dégâts supplémentaires sur tous les monstres des failles
-* 50000 de durabilités (réparable)
-* Chance d'obtention : 3.3%
 
-#### Bouclier de Valkyrie
+**Effet :** +50% de dégâts supplémentaires sur tous les monstres des failles
 
-* 50000 de durabilités (réparable)
-* Chance d'obtention : 5.5%
+**Durabilité maximum :** 1.000 _(réparable)_
 
-#### Pioche de Valkyrie (Collection)
+***
+
+#### 🛡️ Bouclier de Valkyrie (Collection) — 5.5%
+
+**Durabilité maximum :** 1.000 _(réparable)_
+
+***
+
+#### ⛏️ Pioche de Valkyrie (Collection) — 5.5%
+
+**Enchantements :**
 
 * Efficacité 7
 * Fortune 5
-* 50000 de durabilités (réparable)
-* Chance d'obtention : 5.5%
 
-#### Hache de Valkyrie (Collection)
+**Durabilité maximum :** 1.000 _(réparable)_
+
+***
+
+#### 🪓 Hache de Valkyrie (Collection) — 3.3%
+
+**Enchantements :**
 
 * Efficacité 5
-* Effet : Abat un arbre entier en un seul coup
-* (Le même type de bûche jusqu'à 130 max)
-* 10000 de durabilités (réparable)
-* Chance d'obtention : 3.3%
 
-#### Pelle de Valkyrie (Collection)
+**Effet :** Abat un arbre entier en un seul coup (même type de bûche, jusqu'à 130 max)
+
+**Durabilité maximum :** 1.000 _(réparable)_
+
+***
+
+#### 🥄 Pelle de Valkyrie (Collection) — 5.5%
+
+**Enchantements :**
 
 * Efficacité 7
-* 50000 de durabilités (réparable)
-* Chance d'obtention : 5.5%
 
-#### Marteau de Valkyrie (Collection)
+**Durabilité maximum :** 1.000 _(réparable)_
+
+***
+
+#### 🔨 Marteau de Valkyrie (Collection) — 2.2%
+
+**Enchantements :**
 
 * Efficacité 5
-* Effet : Casse dans un rayon de 3x3
-* 15000 de durabilités (non réparable)
-* Chance d'obtention : 2.2%
 
-#### Houe de Valkyrie (Collection)
+**Effet :** Casse dans un rayon de 3x3
+
+**Durabilité maximum :** 1.000 _(non réparable)_
+
+***
+
+#### 🌾 Houe de Valkyrie (Collection) — 2.2%
+
+**Enchantements :**
 
 * Fortune 5
-* Effet : Casse et replante vos cultures dans un rayon de 3x3 blocs.
-* 25000 de durabilités (non réparable)
-* Chance d'obtention : 2.2%
 
-#### Arc de Valkyrie (Collection)
+**Effet :** Casse et replante vos cultures dans un rayon de 3x3 blocs.
+
+**Durabilité maximum :** 1.000 _(non réparable)_
+
+***
+
+#### 🏹 Arc de Valkyrie (Collection) — 5.5%
+
+**Enchantements :**
 
 * Puissance 5
 * Flamme
 * Frappe II
 * Infinité
-* 25000 de durabilités (réparable)
-* Chance d'obtention : 5.5%
 
-#### Canne de Valkyrie (Collection)
+**Durabilité maximum :** 1.000 _(réparable)_
+
+***
+
+#### 🎣 Canne de Valkyrie (Collection) — 5.5%
+
+**Enchantements :**
 
 * Appât VI
 * Chance de la mer VI
-* 10000 de durabilités (réparable)
-* Chance d'obtention : 5.5%
 
-#### Bâton de Valkyrie (Collection)
+**Durabilité maximum :** 1.000 _(réparable)_
 
-* Effet : Clic droit sur un coffre pour vendre l'intégralité de son contenue.
-* Multiplicateur : +50%
-* 100 de durabilités (non réparable)
-* Chance d'obtention : 3.3%
+***
 
-| Récompense                                                                                                       | Chance   |
-| ---------------------------------------------------------------------------------------------------------------- | -------- |
-| 200.000 pièces d'or                                                                                              | 4.4%     |
-| 300.000 pièces d'or                                                                                              | 3.3%     |
-| Plume de fly (Mythique) — Cette Plume de fly vous offre 5 heures de vol grâce à la commande `/fly`.              | Inconnue |
-| Boost Mythique +50% (Mythique) — Buvez cette potion pour boost l'XP et l'Argent de vos Métiers pendant 5 heures. | Inconnue |
+#### 🪄 Bâton de Valkyrie (Collection) — 3.3%
+
+**Effet :** Clic droit sur un coffre pour vendre l'intégralité de son contenu.
+
+**Multiplicateur :** +50%
+
+**Durabilité maximum :** 100 _(non réparable)_
+
+***
+
+#### 💰 Autres récompenses
+
+| Récompense                                          | Chance     |
+| --------------------------------------------------- | ---------- |
+| 200.000 pièces d'or                                 | 4.4%       |
+| 300.000 pièces d'or                                 | 3.3%       |
+| Plume de fly (Mythique) — 5h de vol                 | _Inconnue_ |
+| Boost Mythique +50% — 5h de boost XP/Argent Métiers | _Inconnue_ |
 
 </details>
 
 <details>
 
-<summary>Caisse Farm [TIER I]</summary>
+<summary>🌾 Caisse Farm [TIER I]</summary>
 
-#### Épée Nordique (Commun)
+#### ⚔️ Épée Nordique (Commun) — 3.72%
+
+**Enchantements :**
 
 * Tranchant 5
 * Chatîment 5
 * Fléau des arthropodes 5
 * Affilage 3
 * Butin 3
-* 1500 de durabilités (réparable)
-* Chance d'obtention : 3.72%
 
-#### Pioche Nordique (Commun)
+**Durabilité maximum :** 1.000 _(réparable)_
 
-* Efficacité 5
-* 1000 de durabilités (réparable)
-* Chance d'obtention : 3.72%
+***
 
-#### Hache Nordique (Commun)
+#### ⛏️ Pioche Nordique (Commun) — 3.72%
+
+**Enchantements :**
 
 * Efficacité 5
-* 1000 de durabilités (réparable)
-* Chance d'obtention : 3.72%
 
-#### Pelle Nordique (Commun)
+**Durabilité maximum :** 1.000 _(réparable)_
 
-* Efficacité 5
-* 1000 de durabilités (réparable)
-* Chance d'obtention : 3.72%
+***
 
-#### Houe Nordique (Commun)
+#### 🪓 Hache Nordique (Commun) — 3.72%
 
-* Effet : Casse et replante vos cultures dans un rayon de 1x1 blocs.
-* 1000 de durabilités (non réparable)
-* Chance d'obtention : 3.72%
-
-#### Multitool Nordique (Commun)
+**Enchantements :**
 
 * Efficacité 5
-* Effet : Cet outil s'adapte au bloc que vous essayez de casser.
-* 1000 de durabilités (non réparable)
-* Chance d'obtention : 3.72%
 
-#### Bâton Nordique (Commun)
+**Durabilité maximum :** 1.000 _(réparable)_
 
-* Effet : Clic droit sur un coffre pour vendre l'intégralité de son contenue.
-* Multiplicateur : +5%
-* 10 de durabilités (non réparable)
-* Chance d'obtention : 3.72%
+***
 
-#### Boost Commun +50% (Commun)
+#### 🥄 Pelle Nordique (Commun) — 3.72%
 
-* Effet : Buvez cette potion pour boost l'XP et l'Argent de vos Métiers pendant 20 minutes.
-* Chance d'obtention : 3.72%
+**Enchantements :**
 
-#### Plume de fly (Commun)
+* Efficacité 5
 
-* Effet : Cette Plume de fly vous offre 20 minutes de vol grâce à la commande `/fly`.
-* Chance d'obtention : 3.72%
+**Durabilité maximum :** 1.000 _(réparable)_
 
-#### Gemme de réparation (Commun)
+***
 
-* Effet : Cette gemme ajoute 250 de durabilité à un outil qui est réparable
-* Utilisation : Glissez la gemme sur l'outil de votre choix pour ajouter de la durabilité
-* Chance d'obtention : 3.72%
+#### 🌾 Houe Nordique (Commun) — 3.72%
+
+**Effet :** Casse et replante vos cultures dans un rayon de 1x1 blocs.
+
+**Durabilité maximum :** 1.000 _(non réparable)_
+
+***
+
+#### 🛠️ Multitool Nordique (Commun) — 3.72%
+
+**Enchantements :**
+
+* Efficacité 5
+
+**Effet :** Cet outil s'adapte au bloc que vous essayez de casser.
+
+**Durabilité maximum :** 1.000 _(non réparable)_
+
+***
+
+#### 🪄 Bâton Nordique (Commun) — 3.72%
+
+**Effet :** Clic droit sur un coffre pour vendre l'intégralité de son contenu.
+
+**Multiplicateur :** +5%
+
+**Durabilité maximum :** 10 _(non réparable)_
+
+***
+
+#### 🧪 Boost Commun +50% (Commun) — 3.72%
+
+**Effet :** Buvez cette potion pour boost l'XP et l'Argent de vos Métiers pendant 20 minutes.
+
+***
+
+#### 🪶 Plume de fly (Commun) — 3.72%
+
+**Effet :** Cette Plume de fly vous offre 20 minutes de vol grâce à la commande /fly.
+
+***
+
+#### 💎 Gemme de réparation (Commun) — 3.72%
+
+**Effet :** Cette gemme ajoute 250 de durabilité à un outil qui est réparable.
+
+**Utilisation :** Glissez la gemme sur l'outil de votre choix pour ajouter de la durabilité.
+
+***
+
+#### 💰 Autres récompenses
 
 | Récompense                | Chance |
 | ------------------------- | ------ |
@@ -481,165 +667,232 @@ Les clés peuvent être obtenues de différentes manières :
 
 <details>
 
-<summary>Caisse Farm [TIER II]</summary>
+<summary>🌾Caisse Farm [TIER II]</summary>
 
-#### Épée du Huscarl (Rare)
+#### ⚔️ Épée du Huscarl (Rare) — 5.35%
+
+**Enchantements :**
 
 * Tranchant 5
 * Chatîment 5
 * Fléau des arthropodes 5
 * Affilage 3
 * Butin 3
-* 6000 de durabilités (réparable)
-* Chance d'obtention : 5.35%
 
-#### Pioche du Huscarl (Rare)
+**Durabilité maximum :** 1.000 _(réparable)_
 
-* Efficacité 5
-* 5000 de durabilités (réparable)
-* Chance d'obtention : 5.35%
+***
 
-#### Pelle du Huscarl (Rare)
+#### ⛏️ Pioche du Huscarl (Rare) — 5.35%
+
+**Enchantements :**
 
 * Efficacité 5
-* 5000 de durabilités (réparable)
-* Chance d'obtention : 5.35%
 
-#### Hache du Huscarl (Rare)
+**Durabilité maximum :** 1.000 _(réparable)_
 
-* Efficacité 5
-* 5000 de durabilités (réparable)
-* Chance d'obtention : 5.35%
+***
 
-#### Houe du Huscarl (Rare)
+#### 🥄 Pelle du Huscarl (Rare) — 5.35%
 
-* Effet : Casse et replante vos cultures dans un rayon de 2x2 blocs.
-* 5000 de durabilités (non réparable)
-* Chance d'obtention : 5.35%
-
-#### Multitool du Huscarl (Rare)
+**Enchantements :**
 
 * Efficacité 5
-* Effet : Cet outil s'adapte au bloc que vous essayez de casser.
-* 3500 de durabilités (non réparable)
-* Chance d'obtention : 5.35%
 
-#### Bâton du Huscarl (Rare)
+**Durabilité maximum :** 1.000 _(réparable)_
 
-* Effet : Clic droit sur un coffre pour vendre l'intégralité de son contenue.
-* Multiplicateur : +10%
-* 20 de durabilités (non réparable)
-* Chance d'obtention : 5.35%
+***
 
-#### Boost Rare +50% (Rare)
+#### 🪓 Hache du Huscarl (Rare) — 5.35%
 
-* Effet : Buvez cette potion pour boost l'XP et l'Argent de vos Métiers pendant 30 minutes.
-* Chance d'obtention : 5.35%
+**Enchantements :**
 
-#### Plume de fly (Rare)
+* Efficacité 5
 
-* Effet : Cette Plume de fly vous offre 30 minutes de vol grâce à la commande `/fly`.
-* Chance d'obtention : 5.35%
+**Durabilité maximum :** 1.000 _(réparable)_
 
-#### Gemme de réparation (Rare)
+***
 
-* Effet : Cette gemme ajoute 500 de durabilité à un outil qui est réparable
-* Utilisation : Glissez la gemme sur l'outil de votre choix pour ajouter de la durabilité
-* Chance d'obtention : 5.35%
+#### 🌾 Houe du Huscarl (Rare) — 5.35%
 
-| Récompense                                                            | Chance |
-| --------------------------------------------------------------------- | ------ |
-| 35.000 pièces d'or                                                    | 5.35%  |
-| 50.000 pièces d'or                                                    | 2.67%  |
-| Spawner à Zombie (Rare)                                               | 1.07%  |
-| Spawner à Squelette (Rare)                                            | 1.07%  |
-| Spawner à Araignée (Rare)                                             | 1.07%  |
-| Spawner à Creeper (Rare)                                              | 1.07%  |
-| 75 XP Métiers (Rare) — Gagnez 75 Xp sur chacun de vos métiers actuels | 5.35%  |
-| x32 Lingot d'or                                                       | 5.35%  |
+**Effet :** Casse et replante vos cultures dans un rayon de 2x2 blocs.
+
+**Durabilité maximum :** 1.000 _(non réparable)_
+
+***
+
+#### 🛠️ Multitool du Huscarl (Rare) — 5.35%
+
+**Enchantements :**
+
+* Efficacité 5
+
+**Effet :** Cet outil s'adapte au bloc que vous essayez de casser.
+
+**Durabilité maximum :** 1.000 _(non réparable)_
+
+***
+
+#### 🪄 Bâton du Huscarl (Rare) — 5.35%
+
+**Effet :** Clic droit sur un coffre pour vendre l'intégralité de son contenu.
+
+**Multiplicateur :** +10%
+
+**Durabilité maximum :** 20 _(non réparable)_
+
+***
+
+#### 🧪 Boost Rare +50% (Rare) — 5.35%
+
+**Effet :** Buvez cette potion pour boost l'XP et l'Argent de vos Métiers pendant 30 minutes.
+
+***
+
+#### 🪶 Plume de fly (Rare) — 5.35%
+
+**Effet :** Cette Plume de fly vous offre 30 minutes de vol grâce à la commande /fly.
+
+***
+
+#### 💎 Gemme de réparation (Rare) — 5.35%
+
+**Effet :** Cette gemme ajoute 500 de durabilité à un outil qui est réparable.
+
+**Utilisation :** Glissez la gemme sur l'outil de votre choix pour ajouter de la durabilité.
+
+***
+
+#### 💰 Autres récompenses
+
+| Récompense                 | Chance |
+| -------------------------- | ------ |
+| 35.000 pièces d'or         | 5.35%  |
+| 50.000 pièces d'or         | 2.67%  |
+| Spawner à Zombie (Rare)    | 1.07%  |
+| Spawner à Squelette (Rare) | 1.07%  |
+| Spawner à Araignée (Rare)  | 1.07%  |
+| Spawner à Creeper (Rare)   | 1.07%  |
+| 75 XP Métiers (Rare)       | 5.35%  |
+| x32 Lingot d'or            | 5.35%  |
 
 </details>
 
 <details>
 
-<summary>Caisse Farm [TIER III]</summary>
+<summary>🌾 Caisse Farm [TIER III]</summary>
 
-Épée du Jarl (Epique)
+#### ⚔️ Épée du Jarl (Epique) — 5.15%
+
+**Enchantements :**
 
 * Tranchant 5
 * Chatîment 5
 * Fléau des arthropodes 5
 * Affilage 3
 * Butin 3
-* 15000 de durabilités (réparable)
-* Chance d'obtention : 5.15%
 
-#### Pioche du Jarl (Epique)
+**Durabilité maximum :** 1.000 _(réparable)_
+
+***
+
+#### ⛏️ Pioche du Jarl (Epique) — 5.15%
+
+**Enchantements :**
 
 * Efficacité 5
 * Fortune 3
-* 12500 de durabilités (réparable)
-* Chance d'obtention : 5.15%
 
-#### Hache du Jarl (Epique)
+**Durabilité maximum :** 1.000 _(réparable)_
 
-* Efficacité 5
-* 12500 de durabilités (réparable)
-* Chance d'obtention : 5.15%
+***
 
-#### Pelle du Jarl (Epique)
+#### 🪓 Hache du Jarl (Epique) — 5.15%
+
+**Enchantements :**
 
 * Efficacité 5
-* 12500 de durabilités (réparable)
-* Chance d'obtention : 5.15%
 
-#### Houe du Jarl (Epique)
+**Durabilité maximum :** 1.000 _(réparable)_
+
+***
+
+#### 🥄 Pelle du Jarl (Epique) — 5.15%
+
+**Enchantements :**
+
+* Efficacité 5
+
+**Durabilité maximum :** 1.000 _(réparable)_
+
+***
+
+#### 🌾 Houe du Jarl (Epique) — 5.15%
+
+**Enchantements :**
 
 * Fortune III
-* Effet : Casse et replante vos cultures dans un rayon de 2x2 blocs.
-* 10000 de durabilités (non réparable)
-* Chance d'obtention : 5.15%
 
-#### Multitool du Jarl (Epique)
+**Effet :** Casse et replante vos cultures dans un rayon de 2x2 blocs.
+
+**Durabilité maximum :** 1.000 _(non réparable)_
+
+***
+
+#### 🛠️ Multitool du Jarl (Epique) — 5.15%
+
+**Enchantements :**
 
 * Efficacité 5
-* Effet : Cet outil s'adapte au bloc que vous essayez de casser.
-* 6000 de durabilités (non réparable)
-* Chance d'obtention : 5.15%
 
-#### Bâton du Jarl (Epique)
+**Effet :** Cet outil s'adapte au bloc que vous essayez de casser.
 
-* Effet : Clic droit sur un coffre pour vendre l'intégralité de son contenue.
-* Multiplicateur : +25%
-* 30 de durabilités (non réparable)
-* Chance d'obtention : 5.15%
+**Durabilité maximum :** 1.000 _(non réparable)_
 
-#### Boost Epique +50% (Epique)
+***
 
-* Effet : Buvez cette potion pour boost l'XP et l'Argent de vos Métiers pendant 1 heure.
-* Chance d'obtention : 5.15%
+#### 🪄 Bâton du Jarl (Epique) — 5.15%
 
-#### Plume de fly (Epique)
+**Effet :** Clic droit sur un coffre pour vendre l'intégralité de son contenu.
 
-* Effet : Cette Plume de fly vous offre 1 heure de vol grâce à la commande `/fly`.
-* Chance d'obtention : 5.15%
+**Multiplicateur :** +25%
 
-#### Gemme de réparation (Epique)
+**Durabilité maximum :** 30 _(non réparable)_
 
-* Effet : Cette gemme ajoute 1000 de durabilité à un outil qui est réparable
-* Utilisation : Glissez la gemme sur l'outil de votre choix pour ajouter de la durabilité
-* Chance d'obtention : 5.15%
+***
 
-| Récompense                                                       | Chance |
-| ---------------------------------------------------------------- | ------ |
-| 75.000 pièces d'or                                               | 5.15%  |
-| 100.000 pièces d'or                                              | 2.58%  |
-| Spawner à Blaze (Epique)                                         | 1.03%  |
-| Spawner à Enderman (Epique)                                      | 1.03%  |
-| Spawner à Slime (Epique)                                         | 1.03%  |
-| Spawner à Noyé (Epique)                                          | 1.03%  |
-| Spawner à Sorcière (Epique)                                      | 1.03%  |
-| 200 XP Métiers — Gagnez 200 Xp sur chacun de vos métiers actuels | 5.15%  |
+#### 🧪 Boost Epique +50% (Epique) — 5.15%
+
+**Effet :** Buvez cette potion pour boost l'XP et l'Argent de vos Métiers pendant 1 heure.
+
+***
+
+#### 🪶 Plume de fly (Epique) — 5.15%
+
+**Effet :** Cette Plume de fly vous offre 1 heure de vol grâce à la commande /fly.
+
+***
+
+#### 💎 Gemme de réparation (Epique) — 5.15%
+
+**Effet :** Cette gemme ajoute 1.000 de durabilité à un outil qui est réparable.
+
+**Utilisation :** Glissez la gemme sur l'outil de votre choix pour ajouter de la durabilité.
+
+***
+
+#### 💰 Autres récompenses
+
+| Récompense                  | Chance |
+| --------------------------- | ------ |
+| 75.000 pièces d'or          | 5.15%  |
+| 100.000 pièces d'or         | 2.58%  |
+| Spawner à Blaze (Epique)    | 1.03%  |
+| Spawner à Enderman (Epique) | 1.03%  |
+| Spawner à Slime (Epique)    | 1.03%  |
+| Spawner à Noyé (Epique)     | 1.03%  |
+| Spawner à Sorcière (Epique) | 1.03%  |
+| 200 XP Métiers              | 5.15%  |
 
 </details>
 

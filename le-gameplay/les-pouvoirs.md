@@ -1,12 +1,19 @@
-# 🔥 Les Pouvoirs
+# ⚡ Les Pouvoirs
 
-Découvrez les pouvoirs avec `/pouvoirs`. **Un seul pouvoir peut être équipé à la fois.**
+### 📖 Qu'est-ce qu'un Pouvoir ?
+
+Un **Pouvoir** est une capacité spéciale octroyant des passifs uniques (bonus/malus de statistiques, capacités spéciales). Contrairement aux Atouts, **un seul Pouvoir peut être équipé à la fois**.
+
+### ⚙️ Comment ça fonctionne ?
+
+* 📥 **Découverte** : Utilisez la commande `/pouvoirs` pour consulter la liste complète des pouvoirs disponibles.
+* 🔓 **Déblocage** : Chaque pouvoir est débloqué soit gratuitement (pouvoirs basiques), soit à l'achat contre des Gemmes (pouvoirs communs et supérieurs).
+* 🎒 **Équipement** : Une fois débloqué, équipez le pouvoir de votre choix depuis le menu `/pouvoirs`. **Un seul pouvoir actif à la fois** , équiper un nouveau pouvoir désactive automatiquement l'ancien.
+* ⚖️ **Passifs uniques** : Chaque pouvoir apporte des passifs exclusifs (bonus ET malus), à choisir selon votre style de jeu (minage, combat, exploration...).
 
 {% hint style="warning" %}
 Les pouvoirs basiques (Poulet, Poulpe, Lapin) sont offerts lors de votre première connexion au serveur. Votre choix est définitif : vous ne pourrez pas revenir en arrière ni acheter les deux autres pouvoirs basiques dans le futur.
 {% endhint %}
-
-Débloquez des pouvoirs avec des passifs exclusifs !
 
 ### ⚪ Pouvoirs Basiques
 

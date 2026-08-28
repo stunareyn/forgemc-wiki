@@ -1,6 +1,13 @@
-# 🍯 Les Atouts
+# 🧪 Les Atouts
 
-Permet de débloquer un **effet permanent** sur le serveur.
+### 📖 Qu'est-ce qu'un Atout ?
+
+Un **Atout** est un bonus passif permanent que vous pouvez équiper pour améliorer vos statistiques ou vous octroyer des capacités spéciales sur le serveur. Contrairement aux boosts temporaires (potions), un Atout reste actif **tant qu'il est équipé**, sans limite de temps.
+
+### ⚙️ Comment ça fonctionne ?
+
+* 📥 **Obtention** : Les Atouts s'obtiennent en échange de gemmes
+* 🎒 **Équipement** : Rendez-vous dans votre menu d'Atouts (`/atouts`) pour sélectionner et équiper l'Atout de votre choix.
 
 ***
 

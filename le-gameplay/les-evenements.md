@@ -1,6 +1,6 @@
 # 🗓️ Les Événements
 
-### Qu'est-ce qu'un évènement ?
+### 📖 Qu'est-ce qu'un évènement ?
 
 Les **évènements** sont des animations **temporaires** organisées sur le serveur, conçues pour **dynamiser le gameplay** et **récompenser la participation active**. Ils proposent des objectifs variés et prennent différentes formes, accessibles à tous selon les conditions propres à chaque évènement.
 

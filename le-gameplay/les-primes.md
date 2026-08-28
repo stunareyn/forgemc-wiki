@@ -1,8 +1,6 @@
 # 💰 Les Primes
 
-## 🎯 Primes Quotidiennes
-
-### Qu'est-ce qu'une prime ?
+### 📖 Qu'est-ce qu'une prime ?
 
 Les **primes** sont des **objectifs journaliers** que vous pouvez accomplir en échange de récompenses, notamment des **crânes**, très utiles pour effectuer des échanges au **marché noir**.
 

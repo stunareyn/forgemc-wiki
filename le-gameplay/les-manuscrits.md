@@ -1,6 +1,6 @@
 # 📜 Les Parchemins
 
-## Qu'est-ce qu'un parchemin ?
+## 📖 Qu'est-ce qu'un parchemin ?
 
 Les **parchemins** sont des **missions temporaires** que vous devez accomplir en récoltant des ressources ou en éliminant des mobs. Chaque parchemin est **lié à un métier** présent sur le serveur :
 
