@@ -1,11 +1,32 @@
 # 🚂 Comment rejoindre VinlandCube
 
-Si vous souhaitez rejoindre notre serveur, assurez-vous d'avoir une version Premium de Minecraft. Veuillez noter que le serveur ne prend pas en charge la version Bedrock.
+## Comment rejoindre le serveur ?
 
-🔗Adresse IP : play.vinlandcube.fr
+### Prérequis
 
-Version du serveur : **1.21.10**
+⚠️ Pour rejoindre notre serveur, assure-toi de posséder une **version Premium de Minecraft**.
 
-Si vous éprouvez des difficultés pour vous connecter, n'hésitez pas à ouvrir un ticket sur notre Discord pour obtenir de l'aide.
+> ❌ Le serveur **ne prend pas en charge** la version **Bedrock**.
+
+### Étapes de connexion
+
+1. Lance **Minecraft Java Edition** en version **1.21.10**
+2. Clique sur **Multijoueur**
+3. Clique sur **Ajouter un serveur**
+4. Entre l'adresse IP : `play.vinlandcube.fr`
+5. Active le **pack de ressources** lorsqu'il est proposé
+6. Clique sur **Jouer** et profite de l'aventure !
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+### Besoin d'aide ?
+
+Si tu rencontres des difficultés pour te connecter, n'hésite pas à **ouvrir un ticket sur notre Discord** pour obtenir de l'aide.
+
+***
+
+### 🔗 Liens importants
+
+* 🌐 **Site web** : [vinlandcube.fr](https://vinlandcube.fr/)
+* 🗳️ **Vote** : [vinlandcube.fr/vote](https://vinlandcube.fr/vote)
+* 🛒 **Boutique** : [vinlandcube.fr/shop](https://vinlandcube.fr/shop)

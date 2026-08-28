@@ -1,12 +1,31 @@
 # 📮 Comment voter pour VinlandCube
 
-### Votez pour VinlandCube et contribuez à notre serveur en gagnant des récompenses en jeu, suivez ces étapes simples : <a href="#votez-pour-blocaria-et-contribuez-a-notre-serveur-en-gagnant-des-recompenses-en-jeu-suivez-ces-etape" id="votez-pour-blocaria-et-contribuez-a-notre-serveur-en-gagnant-des-recompenses-en-jeu-suivez-ces-etape"></a>
+## Comment voter sur le serveur ?
 
-1- Inscrivez-vous sur notre site en fournissant votre pseudo exact en jeu, votre adresse e-mail, un mot de passe, et confirmez le mot de passe.
+### Étapes à suivre
 
-2- Une fois inscrit, cliquez sur la section 'Vote'. Cela vous dirigera vers la page avec les différents sites de vote disponible. Choisissez le site sur lequel vous allez voter.
+1.  **Crée un compte** sur [vinlandcube.fr](https://vinlandcube.fr/)
 
-3- Complétez le captcha requis, puis appuyez sur 'Voter'.
+    > ⚠️ Indique ton **pseudo Minecraft** comme nom d'utilisateur
+2. Rends-toi dans l'onglet **Vote & Gagne**
+3. Choisis un site de vote parmi ceux proposés
+4. Remplis le **captcha** pour prouver que tu n'es pas un robot
+5. Rejoins **play.vinlandcube.fr** en version **1.21.10** pour récupérer tes récompenses
 
-4- Une fenêtre verte confirme que votre vote a été enregistré avec succès, et vos récompenses en jeu sont maintenant disponibles.
+### Récompenses de vote
+
+Chaque vote te permet de recevoir :
+
+* 🔑 x1 Clé de vote
+* 💎 x1 Gemme
+* 🕊️ 1 minute de vol (`/fly`)
+* 📈 Progression dans les **paliers de vote** et les **trophées**
+
+### Bon à savoir
+
+> 🎉 **Votes doublés** : lors de certains événements, vos votes peuvent être **doublés**. Vous recevrez alors **le double des récompenses habituelles** !
+
+***
+
+💡 **Astuce** : Pense à voter régulièrement pour progresser plus rapidement dans les paliers et débloquer davantage de récompenses !
 
