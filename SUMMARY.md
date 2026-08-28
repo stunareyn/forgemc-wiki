@@ -11,7 +11,7 @@
 
 ## Le Gameplay
 
-* [🌎 Le OneBlock](le-gameplay/le-oneblock.md)
+* [🧊 Le OneBlock](le-gameplay/le-oneblock.md)
 * [📜 Les Parchemins](le-gameplay/les-manuscrits.md)
 * [💰 Les Primes](le-gameplay/les-primes.md)
 * [💼 Les Métiers](le-gameplay/les-metiers.md)
