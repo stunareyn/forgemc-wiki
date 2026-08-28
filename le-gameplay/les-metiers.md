@@ -1,6 +1,4 @@
-# 👨‍🌾 Les Métiers
-
-## 💼 Les Métiers
+# 💼 Les Métiers
 
 ### Présentation
 

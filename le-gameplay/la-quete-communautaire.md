@@ -1,17 +1,34 @@
 # 🗞️ La Quête communautaire
 
-Il existe une quête communautaire : tous les joueurs du serveur partagent le même objectif et le font progresser ensemble.
+Une **quête communautaire** est active sur le serveur : tous les joueurs partagent le même objectif et progressent ensemble pour l'accomplir !
 
-Dès que l'objectif est réalisé, tous les joueurs ayant participé reçoivent :
+### 🎯 Fonctionnement
 
-* 50.000 pièces d'or
-* 1x Clé Farm \[TIER II]
-* 1x Clé Farm \[Tier III]
+Dès que l'objectif est atteint, **tous les joueurs ayant participé** reçoivent automatiquement :
 
-Une nouvelle quête communautaire apparaît ensuite.
+* 💰 50.000 pièces d'or
+* 🔑 1x Clé Farm \[TIER II]
+* 🔑 1x Clé Farm \[TIER III]
 
-### Récompenses exclusives selon votre contribution
+Une **nouvelle quête communautaire** apparaît ensuite immédiatement, et le cycle recommence !
 
-En fonction de votre niveau de contribution à la quête, vous recevrez également des récompenses supplémentaires :
+***
 
-<table><thead><tr><th width="138" valign="middle">Classement</th><th>Récompenses</th></tr></thead><tbody><tr><td valign="middle">🥇 Premier</td><td>50 000 pièces d'or + 1x Clé Divine</td></tr><tr><td valign="middle">🥈 <strong>Deuxième</strong></td><td>20 000 pièces d'or + 1x Clé Farm [TIER III]</td></tr><tr><td valign="middle">🥉 <strong>Troisième</strong></td><td>10 000 pièces d'or + 1x Clé Farm [TIER II]</td></tr></tbody></table>
+### 🏆 Récompenses exclusives selon votre contribution
+
+En fonction de votre niveau de contribution à la quête, vous recevrez également des **récompenses supplémentaires** exclusives :
+
+#### 🥇 #1 - Meilleur contributeur
+
+* 💰 50.000 pièces d'or
+* 🔑 1x Clé Divine
+
+#### 🥈 #2
+
+* 💰 20.000 pièces d'or
+* 🔑 1x Clé Farm \[TIER III]
+
+#### 🥉 #3
+
+* 💰 10.000 pièces d'or
+* 🔑 1x Clé Farm \[TIER II]

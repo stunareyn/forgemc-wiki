@@ -1,17 +1,21 @@
 # 📦 Les Caisses
 
-Les caisses sont accessibles au `/warp caisse`. Cliquez sur une caisse avec la clé correspondante pour lancer l’animation et recevoir une récompense.
+### Qu'est-ce qu'une caisse ?
 
-## Obtention des clés
+Les **Caisses** sont accessibles au `/warp caisse`. Pour les ouvrir, il vous suffit de **cliquer sur la caisse avec la clé** correspondante. Cela lance l'animation et vous donne votre récompense !
+
+***
+
+### 🔑 Comment obtenir des clés ?
 
 Les clés peuvent être obtenues de différentes manières :
 
-* Achat dans la boutique avec des Gemmes `/boutique`
-* Vote pour le serveur via la commande `/vote`
-* Récompenses d’évènements
-* Récompenses de parchemins
+* 💎 **Achat** dans la boutique avec des Gemmes (`/boutique`)
+* 🗳️ **Vote** pour le serveur (`/vote`)
+* 🎉 **Récompenses d'évènements**
+* 📜 **Récompenses de parchemins**
 
-
+***
 
 <details>
 

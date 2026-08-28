@@ -1,77 +1,93 @@
 # 🌟 Les Trophés
 
-Les 12 trophées attestent de votre progression. Réalisez l’objectif puis récupérez le titre `/tags` et la clé indiqués.
+### Qu'est-ce qu'un trophée ?
 
-Il existe 12 trophés différents sur VinlandCube qui prouve votre valeur sur le serveur. Il suffit de compléter l'objectif indiqué et vous pouvez récupérer une récompense.
+Les **12 trophées** attestent de votre **progression** et prouvent votre **valeur sur le serveur**.
 
-## Trophé #Nolife
+Réalisez l'objectif indiqué, puis récupérez le **titre** (`/tags`) et la **clé** correspondants !
 
-**Objectif :** Jouer 1.000 heures à VinlandCube
+***
 
-**Récompenses :** Titre #Nolife (`/tags`) - 1x Clé Valkyrie
+### 📜 Liste des 12 Trophées
 
-## Trophé #Lapin
+#### 🎮 #Nolife
 
-**Objectif :** Sauter 1.000.000 fois
+**Objectif :** Jouer 1.000 heures à VinlandCube\
+**Récompenses :** Titre #Nolife (`/tags`) • 1x Clé Valkyrie
 
-**Récompenses :** Titre #Lapin (`/tags`) - 1x Clé Valkyrie
+***
 
-## Trophé #Roche
+#### 🐰 #Lapin
 
-**Objectif :** Miner 300.000 roches
+**Objectif :** Sauter 1.000.000 fois\
+**Récompenses :** Titre #Lapin (`/tags`) • 1x Clé Valkyrie
 
-**Récompenses :** Titre #Roche (`/tags`) - 1x Clé Valkyrie
+***
 
-## Trophé #Voteur
+#### 🪨 #Roche
 
-**Objectif :** Voter 250 fois
+**Objectif :** Miner 300.000 roches\
+**Récompenses :** Titre #Roche (`/tags`) • 1x Clé Valkyrie
 
-**Récompenses :** Titre #Voteur (`/tags`) - 1x Clé Valkyrie
+***
 
-## Trophé #Milionnaire
+#### 🗳️ #Voteur
 
-**Objectif :** Avoir 10.000.000 de pièces
+**Objectif :** Voter 250 fois\
+**Récompenses :** Titre #Voteur (`/tags`) • 1x Clé Valkyrie
 
-**Récompenses :** Titre #Milionnaire (`/tags`) - 1x Clé Valkyrie
+***
 
-## Trophé #Léviathan
+#### 💰 #Millionnaire
 
-**Objectif :** Pêcher 5.000 poissons
+**Objectif :** Avoir 10.000.000 de pièces\
+**Récompenses :** Titre #Millionnaire (`/tags`) • 1x Clé Valkyrie
 
-**Récompenses :** Titre #Léviathan (`/tags`) - 1x Clé Valkyrie
+***
 
-## Trophé #Excavateur
+#### 🐟 #Léviathan
 
-**Objectif :** Miner 1.000.000 blocs
+**Objectif :** Pêcher 5.000 poissons\
+**Récompenses :** Titre #Léviathan (`/tags`) • 1x Clé Valkyrie
 
-**Récompenses :** Titre #Excavateur (`/tags`) - 1x Clé Valkyrie
+***
 
-## Trophé #Merlin
+#### ⛏️ #Excavateur
 
-**Objectif :** Enchanter 10.000 objets
+**Objectif :** Miner 1.000.000 blocs\
+**Récompenses :** Titre #Excavateur (`/tags`) • 1x Clé Valkyrie
 
-**Récompenses :** Titre #Merlin (`/tags`) - 1x Clé Valkyrie
+***
 
-## Trophé #Tryhard
+#### ✨ #Merlin
 
-**Objectif :** Compléter 500 parchemins
+**Objectif :** Enchanter 10.000 objets\
+**Récompenses :** Titre #Merlin (`/tags`) • 1x Clé Valkyrie
 
-**Récompenses :** Titre #Tryhard (`/tags`) - 1x Clé Valkyrie
+***
 
-## Trophé #Terreur
+#### 💪 #Tryhard
 
-**Objectif :** Tuer 1.000.000 monstres
+**Objectif :** Compléter 500 parchemins\
+**Récompenses :** Titre #Tryhard (`/tags`) • 1x Clé Valkyrie
 
-**Récompenses :** Titre #Terreur (`/tags`) - 1x Clé Valkyrie
+***
 
-## Trophé #1000
+#### ⚔️ #Terreur
 
-**Objectif :** Atteindre le niveau 1.000
+**Objectif :** Tuer 1.000.000 monstres\
+**Récompenses :** Titre #Terreur (`/tags`) • 1x Clé Valkyrie
 
-**Récompenses :** Titre #1000 (`/tags`) - 1x Clé Valkyrie
+***
 
-## Trophé #Farmeur
+#### 🔢 #1000
 
-**Objectif :** Récolter 1.000.000 cultures
+**Objectif :** Atteindre le niveau 1.000\
+**Récompenses :** Titre #1000 (`/tags`) • 1x Clé Valkyrie
 
-**Récompenses :** Titre #Farmeur (`/tags`) - 1x Clé Valkyrie
+***
+
+#### 🌾 #Farmeur
+
+**Objectif :** Récolter 1.000.000 cultures\
+**Récompenses :** Titre #Farmeur (`/tags`) • 1x Clé Valkyrie

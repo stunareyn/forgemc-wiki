@@ -1,39 +1,47 @@
-# 🚪 Les Failles
+# 🌀 Les Failles
 
-Les failles apparaissent toutes les 30 minutes à un emplacement aléatoire dans le spawn. Leur type est également aléatoire.
+### Qu'est-ce qu'une faille ?
 
-Elles permettent de récupérer des loots pour crafter des armes et armures à l'armurerie, ainsi que de gagner des clés Farm.
+Les **failles** apparaissent **toutes les 30 minutes** à un **emplacement aléatoire** au spawn. Leur **type** est également déterminé aléatoirement.
 
-Il existe trois types de failles :
+Elles vous permettent de récupérer des **loots** utilisés pour **crafter des armes et armures** à l'**armurerie**, ainsi que de gagner des **Clés Farm**.
 
-## Faille du Croc Givré
+***
 
-**Condition d'entrée :** à partir du Rang Exilé
+### 🔮 Types de failles
 
-**Loots :**
+#### ❄️ Faille du Croc Givré
 
-* Peau de cuir (Basique)
-* Laine (Commun)
-* Ivoire (Rare)
-
-## Faille des Âmes Errantes
-
-**Condition d'entrée :** à partir du Rang Guerrier
+**Condition d'entrée :** à partir du Rang **Exilé**
 
 **Loots :**
 
-* Os (Commun)
-* Ectoplasme fantomatique (Rare)
-* Suintement nécrotique (Rare)
-* Fiole d'eau impie (Epique)
+* Peau de cuir _(Basique)_
+* Laine _(Commun)_
+* Ivoire _(Rare)_
 
-## Faille d'Yggdrasil
+***
 
-**Condition d'entrée :** à partir du Rang Berserk
+#### 👻 Faille des Âmes Errantes
+
+**Condition d'entrée :** à partir du Rang **Guerrier**
 
 **Loots :**
 
-* Fourrure (Epique)
-* Graisse (Epique)
-* Pierre de lune (Légendaire)
-* Sel élémentaire (Légendaire)
+* Os _(Commun)_
+* Ectoplasme fantomatique _(Rare)_
+* Suintement nécrotique _(Rare)_
+* Fiole d'eau impie _(Épique)_
+
+***
+
+#### 🌳 Faille d'Yggdrasil
+
+**Condition d'entrée :** à partir du Rang **Berserk**
+
+**Loots :**
+
+* Fourrure _(Épique)_
+* Graisse _(Épique)_
+* Pierre de lune _(Légendaire)_
+* Sel élémentaire _(Légendaire)_

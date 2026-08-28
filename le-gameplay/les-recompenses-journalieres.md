@@ -1,10 +1,12 @@
 # 🎁 Les Récompenses journalières
 
-Tous les jours, recevez une récompense en fonction de votre temps de jeu journalier.
+## Principe
+
+Chaque jour, recevez des **récompenses** en fonction de votre **temps de jeu journalier**. Plus vous jouez longtemps, plus les récompenses sont intéressantes !
 
 {% stepper %}
 {% step %}
-## Palier #1
+### Palier #1
 
 **Récompense :**
 
@@ -14,7 +16,7 @@ Tous les jours, recevez une récompense en fonction de votre temps de jeu journa
 {% endstep %}
 
 {% step %}
-## Palier #2
+### Palier #2
 
 **Récompense :**
 
@@ -24,7 +26,7 @@ Tous les jours, recevez une récompense en fonction de votre temps de jeu journa
 {% endstep %}
 
 {% step %}
-## Palier #3
+### Palier #3
 
 **Récompense :**
 
@@ -34,7 +36,7 @@ Tous les jours, recevez une récompense en fonction de votre temps de jeu journa
 {% endstep %}
 
 {% step %}
-## Palier #4
+### Palier #4
 
 **Récompense :**
 
@@ -44,7 +46,7 @@ Tous les jours, recevez une récompense en fonction de votre temps de jeu journa
 {% endstep %}
 
 {% step %}
-## Palier #5
+### Palier #5
 
 **Récompense :**
 
@@ -54,7 +56,7 @@ Tous les jours, recevez une récompense en fonction de votre temps de jeu journa
 {% endstep %}
 
 {% step %}
-## Palier #6
+### Palier #6
 
 **Récompense :**
 
@@ -64,7 +66,7 @@ Tous les jours, recevez une récompense en fonction de votre temps de jeu journa
 {% endstep %}
 
 {% step %}
-## Palier #7
+### Palier #7
 
 **Récompense :**
 
@@ -74,7 +76,7 @@ Tous les jours, recevez une récompense en fonction de votre temps de jeu journa
 {% endstep %}
 
 {% step %}
-## Palier #8
+### Palier #8
 
 **Récompense :**
 
@@ -84,7 +86,7 @@ Tous les jours, recevez une récompense en fonction de votre temps de jeu journa
 {% endstep %}
 
 {% step %}
-## Palier #9
+### Palier #9
 
 **Récompense :**
 
@@ -94,7 +96,7 @@ Tous les jours, recevez une récompense en fonction de votre temps de jeu journa
 {% endstep %}
 
 {% step %}
-## Palier #10
+### Palier #10
 
 **Récompense :**
 

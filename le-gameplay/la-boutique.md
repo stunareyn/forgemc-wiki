@@ -1,14 +1,18 @@
 # 💎 La Boutique
 
-La boutique propose des grades, des clés et d’autres avantages en échange de gemmes. Les gemmes s’obtiennent sur [https://vinlandcube.fr/.](https://vinlandcube.fr/)
+## 🛒 La Boutique
 
-## Les Grades
+La boutique propose des **grades**, des **clés** et d'autres avantages en échange de **Gemmes**. Les gemmes s'obtiennent sur [**vinlandcube.fr**](https://vinlandcube.fr/shop/categories/gemmes).
 
-### Grade Noble
+***
 
-**Prix : à définir**
+### 👑 Les Grades
 
-#### Avantages
+#### 🔹 Grade Noble
+
+**Prix :** à définir
+
+**Avantages :**
 
 * Accès à un pwarp supplémentaire `/pwarp`
 * Accès à 4 homes
@@ -17,19 +21,21 @@ La boutique propose des grades, des clés et d’autres avantages en échange de
 * Accès à 2 métiers simultanément
 * 25 minutes d'AFK maximum
 
-#### Commandes
+**Commandes :**
 
 * Accès à la commande `/feed`
 * Accès à la commande `/near`
 * Accès à la commande `/sign`
 
-### Grade Seigneur
+***
 
-**Prix : à définir**
+#### 🔷 Grade Seigneur
 
-#### Avantages
+**Prix :** à définir
 
-* Avantages du rang Noble
+**Avantages :**
+
+* ✅ Avantages du rang Noble
 * Accès à un pwarp supplémentaire `/pwarp`
 * Accès à 6 homes
 * Accès à 12 emplacements à l'HDV
@@ -37,22 +43,24 @@ La boutique propose des grades, des clés et d’autres avantages en échange de
 * Accès à 3 métiers simultanément
 * 35 minutes d'AFK maximum
 
-#### Commandes
+**Commandes :**
 
-* Commandes du rang Noble
+* ✅ Commandes du rang Noble
 * Accès à la commande `/craft`
 * Accès à la commande `/loom`
 * Accès à la commande `/ec`
 * Accès à la commande `/sell hand`
 * Accès à la commande `/tpahere`
 
-### Grade Légende
+***
 
-**Prix : à définir**
+#### 🟣 Grade Légende
 
-#### Avantages
+**Prix :** à définir
 
-* Avantages du rang Seigneur
+**Avantages :**
+
+* ✅ Avantages du rang Seigneur
 * Accès à un pwarp supplémentaire `/pwarp`
 * Accès à 8 homes
 * Accès à 16 emplacements à l'HDV
@@ -60,9 +68,9 @@ La boutique propose des grades, des clés et d’autres avantages en échange de
 * Accès à 4 métiers simultanément
 * 45 minutes d'AFK maximum
 
-#### Commandes
+**Commandes :**
 
-* Commandes du rang Seigneur
+* ✅ Commandes du rang Seigneur
 * Accès à la commande `/repair`
 * Accès à la commande `/stonecutter`
 * Accès à la commande `/anvil`
@@ -70,113 +78,125 @@ La boutique propose des grades, des clés et d’autres avantages en échange de
 * Accès à la commande `/back`
 * Accès à la commande `/condense`
 
-### Grade Valhalla
+***
 
-**Prix : à définir**
+#### 🟡 Grade Valhalla
 
-#### Avantages
+**Prix :** à définir
 
-* Avantages du rang Légende
+**Avantages :**
+
+* ✅ Avantages du rang Légende
 * Accès à un pwarp supplémentaire `/pwarp`
 * Accès à 10 homes
 * Accès à 20 emplacements à l'HDV
-* Aucune limite sur la création des pwarps `/pwarp`
+* **Aucune limite** sur la création des pwarps `/pwarp`
 * Accès au kit Valhalla `/kit Valhalla`
-* Aucun délai de téléportation (`/back`, `/tpa` ...)
-* Choix du format et couleurs pour tes messages
+* **Aucun délai de téléportation** (`/back`, `/tpa`...)
+* Choix du format et des couleurs pour tes messages
 * Accès à toutes les failles
 * Accès à 5 métiers simultanément
 * 1 heure d'AFK maximum
 
-#### Commandes
+**Commandes :**
 
-* Commandes du rang Légende
+* ✅ Commandes du rang Légende
 * Accès à la commande `/fly`
 * Accès à la commande `/repair all`
 * Accès à la commande `/sell all`
 * Accès à la commande `/top`
 * Accès à la commande `/bottom`
 
-### Grade Odin
+***
 
-#### Obtention
+#### 🔴 Grade Odin
 
-Dépense +1000€ sur la boutique et bloqué ce grade avec ses avantages uniques !
+**Obtention :** Dépense **+1000€** sur la boutique pour débloquer ce grade et ses avantages uniques !
 
-#### Avantages
+**Avantages :**
 
-* Avantages du rang Valhalla
+* ✅ Avantages du rang Valhalla
 * Un salon Discord privé pour discuter avec l'équipe de développement et les administrateurs
 * Dons réguliers de clés
 * Accès à des aperçus exclusifs des mises à jour futures
-* Accès à des emplacements à l'HDV illimités
+* Accès à des emplacements à l'HDV **illimités**
 * 2 heures d'AFK maximum
 
-#### Commandes
+**Commandes :**
 
 * Accès à la commande `/ptime`
 * Accès à la commande `/pweather`
 
-## Abonnement
+***
 
-L'abonnement premium vous offre des avantages exclusifs :
+### ⭐ Abonnement Premium
 
-* Icône exclusive à côté de votre pseudo
-* Personnalisation des couleurs et formats de vos messages
-* Double gains au Voteparty
-* Double gains à la Quête Communautaire
-* Bonus de +20% d'XP et d'Argent sur les métiers Chasseur et Pêcheur
+L'abonnement premium t'offre des avantages exclusifs :
+
+* 🏷️ Icône exclusive à côté de ton pseudo
+* 🎨 Personnalisation des couleurs et formats de tes messages
+* 💰 Double gains au Voteparty
+* 🎯 Double gains à la Quête Communautaire
+* 🎣 Bonus de +20% d'XP et d'Argent sur les métiers Chasseur et Pêcheur
 * Accès à la commande `/eat`, `/feed`
-* Accès à la commande `/crafter`
-* Accès à la commande `/flyspeed` (require le fly)
+* Accès à la commande `/craft`
+* Accès à la commande `/flyspeed` (nécessite le fly)
 
-Accesible dès 14,99€ par mois
+**Accessible dès 14,99€/mois**
 
-## Les Clés
+***
 
-Différentes caisses sont disponibles au spawn, avec l'obtention d'items exclusifs et de boosts pour votre aventure. Vous trouverez plus d'informations sur la page « Les caisses ».
+### 🔑 Les Clés
 
-### Clé Mystique
+Différentes caisses sont disponibles au spawn, offrant des items exclusifs et des boosts pour ton aventure. Plus d'informations sur la page **« Les caisses »**.
 
-* x1 = 250 Gemmes
-* x5 = 1250Gemmes (1 offerte)
-* x11 = 2500 Gemmes (1 offerte)
+#### Clé Mystique
 
-### Clé Divine
+| Quantité | Prix                      |
+| -------- | ------------------------- |
+| x1       | 250 Gemmes                |
+| x5       | 1250 Gemmes _(1 offerte)_ |
+| x11      | 2500 Gemmes _(1 offerte)_ |
 
-* x1 = 550 Gemmes
-* x5 = 2750 Gemmes (1 offerte)
-* x11 = 5500 Gemmes (1 offerte)
+#### Clé Divine
 
-### Clé Valkyrie
+| Quantité | Prix                      |
+| -------- | ------------------------- |
+| x1       | 550 Gemmes                |
+| x5       | 2750 Gemmes _(1 offerte)_ |
+| x11      | 5500 Gemmes _(1 offerte)_ |
 
-* x1 = 900 Gemmes
-* x5 = 4500 Gemmes (1 offerte)
-* x11 = 9000 Gemmes (1 offerte)
+#### Clé Valkyrie
 
-## Les Bundles
+| Quantité | Prix                      |
+| -------- | ------------------------- |
+| x1       | 900 Gemmes                |
+| x5       | 4500 Gemmes _(1 offerte)_ |
+| x11      | 9000 Gemmes _(1 offerte)_ |
 
-Quatre bundles sont proposés, achetables une seule fois par joueur pour lancer votre aventure.
+***
 
-### 1 Clé Offerte !
+### 🎁 Les Bundles
 
-**Contient :**
+Quatre bundles sont proposés, achetables **une seule fois par joueur** pour lancer ton aventure.
 
-* 2x Clé Divine
+***
 
-**Montant :** x1 (+1 offerte)\
-**Prix :** 550 Gemmes ~~1100 Gemmes~~
+#### 🎁 Bundle Divin — _1 Clé Offerte !_
 
-### 1 Clé Offerte !
+**Contient :** 2x Clé Divine (x1 +1 offerte)\
+**Prix :** ~~1100 Gemmes~~ **550 Gemmes**
 
-**Contient :**
+#### 🎁 Bundle Valkyrie — _1 Clé Offerte !_
 
-* 2x Clé Valkyrie
+***
 
-**Montant :** x1 (+1 offerte)\
-**Prix :** 900 Gemmes ~~1800 Gemmes~~
+**Contient :** 2x Clé Valkyrie (x1 +1 offerte)\
+**Prix :** ~~1800 Gemmes~~ **900 Gemmes**
 
-### Pack Pionner
+#### 🚀 Pack Pionnier
+
+***
 
 **Contient :**
 
@@ -188,13 +208,15 @@ Quatre bundles sont proposés, achetables une seule fois par joueur pour lancer 
 * 2x Clé Mystique
 * 1x Clé Divine
 
-**Prix :** 4000 Gemmes ~~6000 Gemmes~~
+**Prix :** 6~~000 Gemmes~~ **4000 Gemmes**
 
 {% hint style="success" %}
-Économie 20€
+💰 **Économie 20€**
 {% endhint %}
 
-### Pack Fondateur
+***
+
+#### 🏆 Pack Fondateur
 
 **Contient :**
 
@@ -203,31 +225,29 @@ Quatre bundles sont proposés, achetables une seule fois par joueur pour lancer 
 * 2x Clé Valkyrie
 * 1x Clé Divine
 
-**Prix :** 11000 Gemmes ~~13000 Gemmes~~
+**Prix :** ~~13000 Gemmes~~ **11000 Gemmes**
 
 {% hint style="success" %}
-Économie 20€
+💰 **Économie 20€**
 {% endhint %}
 
-## Fidélité récompensée
+***
 
-Sur VinlandCube, la fidélité est récompensée : gagnez des récompenses dès que vous dépassez un palier de dépense sur notre boutique !
+### 💎 Fidélité récompensée
+
+Sur VinlandCube, la fidélité est récompensée : gagne des récompenses dès que tu dépasses un palier de dépense sur la boutique !
 
 {% stepper %}
 {% step %}
 #### Palier #1 - Dépenser 25€
 
-**Récompense :**
-
-* 1x Clé Mystique
+**Récompense :** 1x Clé Mystique
 {% endstep %}
 
 {% step %}
 #### Palier #2 - Dépenser 50€
 
-**Récompense :**
-
-* 1x Clé Divine
+**Récompense :** 1x Clé Divine
 {% endstep %}
 
 {% step %}
@@ -242,17 +262,13 @@ Sur VinlandCube, la fidélité est récompensée : gagnez des récompenses dès 
 {% step %}
 #### Palier #4 - Dépenser 200€
 
-**Récompense :**
-
-* 1x Clé Valkyrie
+**Récompense :** 1x Clé Valkyrie
 {% endstep %}
 
 {% step %}
 #### Palier #5 - Dépenser 300€
 
-**Récompense :**
-
-* 1x Clé Divine
+**Récompense :** 1x Clé Divine
 {% endstep %}
 
 {% step %}
@@ -268,25 +284,19 @@ Sur VinlandCube, la fidélité est récompensée : gagnez des récompenses dès 
 {% step %}
 #### Palier #7 - Dépenser 500€
 
-**Récompense :**
-
-* 1x Clé Valkyrie
+**Récompense :** 1x Clé Valkyrie
 {% endstep %}
 
 {% step %}
 #### Palier #8 - Dépenser 650€
 
-**Récompense :**
-
-* 1x Clé Valkyrie
+**Récompense :** 1x Clé Valkyrie
 {% endstep %}
 
 {% step %}
 #### Palier #9 - Dépenser 800€
 
-**Récompense :**
-
-* 2x Clé Divine
+**Récompense :** 2x Clé Divine
 {% endstep %}
 
 {% step %}
@@ -319,9 +329,7 @@ Sur VinlandCube, la fidélité est récompensée : gagnez des récompenses dès 
 {% step %}
 #### Palier #13 - Dépenser 1700€
 
-**Récompense :**
-
-* 3x Clé Valkyrie
+**Récompense :** 3x Clé Valkyrie
 {% endstep %}
 
 {% step %}
