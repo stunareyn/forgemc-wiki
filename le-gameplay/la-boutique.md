@@ -31,7 +31,7 @@ La boutique propose des **grades**, des **clés** et d'autres avantages en écha
 
 #### 🔹 Grade Noble
 
-**Prix :** à définir
+**Prix :** 💎 1000 Gemmes
 
 **Avantages :**
 
@@ -52,7 +52,7 @@ La boutique propose des **grades**, des **clés** et d'autres avantages en écha
 
 #### 🔷 Grade Seigneur
 
-**Prix :** à définir
+**Prix :** 💎 1500 Gemmes
 
 **Avantages :**
 
@@ -77,7 +77,7 @@ La boutique propose des **grades**, des **clés** et d'autres avantages en écha
 
 #### 🟣 Grade Légende
 
-**Prix :** à définir
+**Prix :** 💎 2500 Gemmes
 
 **Avantages :**
 
@@ -103,7 +103,7 @@ La boutique propose des **grades**, des **clés** et d'autres avantages en écha
 
 #### 🟡 Grade Valhalla
 
-**Prix :** à définir
+**Prix :** 💎 5000 Gemmes
 
 **Avantages :**
 
