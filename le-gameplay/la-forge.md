@@ -111,7 +111,9 @@ L'armurerie permet de fabriquer des **armures** et **objets utiles** contre les 
 * Affilage 3
 * Butin 3
 
-**Durabilité maximum : 5000 (réparable)** **Effet :** +50% de dégâts contre les monstres de la Faille des Âmes Errantes **Obtention :** 48x Os, 24x Ectoplasme fantomatique, 24x Suintement nécrotique, 8x Fiole d'eau impie
+**Durabilité maximum :** 5000 _(réparable)_\
+**Effet :** +50% de dégâts contre les monstres de la Faille des Âmes Errantes\
+**Obtention :** 48x Os, 24x Ectoplasme fantomatique, 24x Suintement nécrotique, 8x Fiole d'eau impie
 
 #### 🛡️ Bouclier d'Ossuaire _(Épique)_
 

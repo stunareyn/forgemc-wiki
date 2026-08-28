@@ -1,8 +1,10 @@
 # 🎁 Les Récompenses journalières
 
-## Principe
+### 📖 Fonctionnement
 
-Chaque jour, recevez des **récompenses** en fonction de votre **temps de jeu journalier**. Plus vous jouez longtemps, plus les récompenses sont intéressantes !
+Tous les jours, recevez une récompense en fonction de votre **temps de jeu journalier**. Plus vous restez connecté longtemps dans la même journée, plus les paliers débloqués sont intéressants !
+
+⚠️ Le temps de jeu se réinitialise chaque jour, pensez à vous connecter régulièrement pour cumuler vos paliers.
 
 {% stepper %}
 {% step %}
@@ -10,7 +12,7 @@ Chaque jour, recevez des **récompenses** en fonction de votre **temps de jeu jo
 
 **Récompense :**
 
-* 2500 pièces d'or
+* 💰 2.500 pièces d'or
 
 **Temps de jeu requis :** 5 minutes
 {% endstep %}
@@ -20,7 +22,7 @@ Chaque jour, recevez des **récompenses** en fonction de votre **temps de jeu jo
 
 **Récompense :**
 
-* 1x Parchemin Commun
+* 📜 1x Parchemin Commun
 
 **Temps de jeu requis :** 15 minutes
 {% endstep %}
@@ -30,7 +32,7 @@ Chaque jour, recevez des **récompenses** en fonction de votre **temps de jeu jo
 
 **Récompense :**
 
-* 1x Clé Vote
+* 🔑 1x Clé Vote
 
 **Temps de jeu requis :** 30 minutes
 {% endstep %}
@@ -40,7 +42,7 @@ Chaque jour, recevez des **récompenses** en fonction de votre **temps de jeu jo
 
 **Récompense :**
 
-* 7500 pièces d'or
+* 💰 7.500 pièces d'or
 
 **Temps de jeu requis :** 45 minutes
 {% endstep %}
@@ -50,7 +52,7 @@ Chaque jour, recevez des **récompenses** en fonction de votre **temps de jeu jo
 
 **Récompense :**
 
-* 1x Plume de fly (10 minutes)
+* 🪶 1x Plume de Fly (10 minutes)
 
 **Temps de jeu requis :** 1 heure
 {% endstep %}
@@ -60,7 +62,7 @@ Chaque jour, recevez des **récompenses** en fonction de votre **temps de jeu jo
 
 **Récompense :**
 
-* 1x Clé Farm \[TIER I]
+* 🔑 1x Clé Farm \[TIER I]
 
 **Temps de jeu requis :** 1 heure et 30 minutes
 {% endstep %}
@@ -70,7 +72,7 @@ Chaque jour, recevez des **récompenses** en fonction de votre **temps de jeu jo
 
 **Récompense :**
 
-* 1x Parchemin Rare
+* 📜 1x Parchemin Rare
 
 **Temps de jeu requis :** 2 heures
 {% endstep %}
@@ -80,7 +82,7 @@ Chaque jour, recevez des **récompenses** en fonction de votre **temps de jeu jo
 
 **Récompense :**
 
-* 20000 pièces d'or
+* 💰 20.000 pièces d'or
 
 **Temps de jeu requis :** 2 heures et 30 minutes
 {% endstep %}
@@ -90,7 +92,7 @@ Chaque jour, recevez des **récompenses** en fonction de votre **temps de jeu jo
 
 **Récompense :**
 
-* 1x Clé Farm \[TIER II]
+* 🔑 1x Clé Farm \[TIER II]
 
 **Temps de jeu requis :** 3 heures
 {% endstep %}
@@ -100,7 +102,7 @@ Chaque jour, recevez des **récompenses** en fonction de votre **temps de jeu jo
 
 **Récompense :**
 
-* 1x Clé Aléatoire
+* 🔑 1x Clé Aléatoire
 
 **Temps de jeu requis :** 6 heures
 {% endstep %}

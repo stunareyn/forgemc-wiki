@@ -1,6 +1,6 @@
 # 🌀 Les Failles
 
-### 📖 Qu'est-ce qu'une faille ?
+## 📖 Qu'est-ce qu'une faille ?
 
 Les **failles** apparaissent **toutes les 30 minutes** à un **emplacement aléatoire** au spawn. Leur **type** est également déterminé aléatoirement.
 
@@ -8,9 +8,9 @@ Elles vous permettent de récupérer des **loots** utilisés pour **crafter des 
 
 ***
 
-### 🔮 Types de failles
+## 🔮 Types de failles
 
-#### ❄️ Faille du Croc Givré
+### ❄️ Faille du Croc Givré
 
 **Condition d'entrée :** à partir du Rang **Exilé**
 
@@ -22,7 +22,7 @@ Elles vous permettent de récupérer des **loots** utilisés pour **crafter des 
 
 ***
 
-#### 👻 Faille des Âmes Errantes
+### 👻 Faille des Âmes Errantes
 
 **Condition d'entrée :** à partir du Rang **Guerrier**
 
@@ -35,7 +35,7 @@ Elles vous permettent de récupérer des **loots** utilisés pour **crafter des 
 
 ***
 
-#### 🌳 Faille d'Yggdrasil
+### 🌳 Faille d'Yggdrasil
 
 **Condition d'entrée :** à partir du Rang **Berserk**
 

@@ -32,10 +32,10 @@ Abattre des arbres, cuire le bois et l'écorcer.
 
 ### ⚡ Les Boosts Métier
 
-Les **boosts métier** vous permettent d'**augmenter l'XP récolté** par action effectuée dans votre métier.
+Les **boosts métier** vous permettent d'**augmenter l'argent et l'XP récolté** par action effectuée dans votre métier.
 
 * Les boosts possèdent différentes **raretés**
-* Chaque rareté confère une **durée d'effet** et un **pourcentage d'XP bonus** variable
+* Chaque rareté confère une **durée d'effet** et un **pourcentage d'argent et d'XP bonus** variable
 * **Activation :** cliquez dans le vide avec le boost en main
 
 ***
