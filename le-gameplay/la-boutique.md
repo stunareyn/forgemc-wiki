@@ -139,19 +139,19 @@ Différentes caisses sont disponibles au spawn, avec l'obtention d'items exclusi
 ### Clé Mystique
 
 * x1 = 250 Gemmes
-* x5 = 1000 Gemmes (1 offerte)
+* x5 = 1250Gemmes (1 offerte)
 * x11 = 2500 Gemmes (1 offerte)
 
 ### Clé Divine
 
 * x1 = 550 Gemmes
-* x5 = 2200 Gemmes (1 offerte)
+* x5 = 2750 Gemmes (1 offerte)
 * x11 = 5500 Gemmes (1 offerte)
 
 ### Clé Valkyrie
 
 * x1 = 900 Gemmes
-* x5 = 3600 Gemmes (1 offerte)
+* x5 = 4500 Gemmes (1 offerte)
 * x11 = 9000 Gemmes (1 offerte)
 
 ## Les Bundles

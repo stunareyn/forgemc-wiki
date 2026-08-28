@@ -39,7 +39,7 @@ Il existe 6 rangs différents sur VinlandCube, remplissez les prérequis pour d�
 * Niveau 5 Mineur
 * Compléter 5 Prime Facile
 * Terminer 1 Faille du Croc Givré
-* Payé 250000 pièces d'or
+* Payé 250.000 pièces d'or
 
 #### Avantages
 
@@ -51,7 +51,7 @@ Il existe 6 rangs différents sur VinlandCube, remplissez les prérequis pour d�
 * Accès à une boutique joueur supplémentraire /qs
 * 5% de bonus supplémentaire dans le shop global /shop
 * 5% de réduction sur les achats de blocs dans le Shop Blocs /shop
-* Un salaire de 2500 pièces d'or par heure
+* Un salaire de 2.500 pièces d'or par heure
 * 15 minutes d'AFK maximum
 * Accès à 1 métier simultanément
 
@@ -67,7 +67,13 @@ Il existe 6 rangs différents sur VinlandCube, remplissez les prérequis pour d�
 
 #### Prérequis
 
-À définir
+* Niveau 10 Chasseur
+* Niveau 10 Fermier
+* Niveau 10 Mineur
+* Compléter 10 Prime Facile
+* Compléter 5 Prime Moyenne
+* Terminer 5 Faille du Croc Givré
+* Payé 1.000.000 pièces d'or
 
 #### Avantages
 
@@ -79,7 +85,7 @@ Il existe 6 rangs différents sur VinlandCube, remplissez les prérequis pour d�
 * Accès à une boutique joueur supplémentaire /qs
 * 10% de bonus supplémentaire dans le shop global /shop
 * 10% de réduction sur les achats de blocs dans le Shop Blocs /shop
-* Un salaire de 3000 pièces d'or par heure
+* Un salaire de 3.000 pièces d'or par heure
 * 25 minutes d'AFK maximum
 * Accès à la Faille des Âmes Errantes
 * Accès à 2 métiers simultanément
@@ -97,7 +103,15 @@ Il existe 6 rangs différents sur VinlandCube, remplissez les prérequis pour d�
 
 #### Prérequis
 
-À définir
+* Niveau 25 Chasseur
+* Niveau 25 Fermier
+* Niveau 25 Mineur
+* Niveau 15 Bûcheron
+* Niveau 15 Pêcheur
+* Compléter 10 Prime Moyenne
+* Compléter 5 Prime Difficile
+* Terminer 5 Faille des Âmes Errantes
+* Payé 3.000.000 pièces d'or
 
 #### Avantages
 
@@ -126,7 +140,16 @@ Il existe 6 rangs différents sur VinlandCube, remplissez les prérequis pour d�
 
 #### Prérequis
 
-À définir
+* Niveau 50 Chasseur
+* Niveau 50 Fermier
+* Niveau 50 Mineur
+* Niveau 35 Bûcheron
+* Niveau 35 Pêcheur
+* Compléter 25 Prime Moyenne
+* Compléter 10 Prime Difficile
+* Compléter 1 Prime Hardcore
+* Terminer 10 Faille des Âmes Errantes
+* Payé 10.000.000 pièces d'or
 
 #### Avantages
 
@@ -158,7 +181,15 @@ Il existe 6 rangs différents sur VinlandCube, remplissez les prérequis pour d�
 
 #### Prérequis
 
-À définir
+* Niveau 100 Chasseur
+* Niveau 100 Fermier
+* Niveau 100 Mineur
+* Niveau 75 Bûcheron
+* Niveau 50 Pêcheur
+* Compléter 25 Prime Diffcile
+* Compléter 5 Prime Hardcore
+* Terminer 10 Faille d'Yggdrasil
+* Payé 20.000.000 pièces d'or
 
 #### Avantages
 
