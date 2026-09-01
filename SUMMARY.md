@@ -8,6 +8,7 @@
 * [🪧 Règlement Discord](informations-importantes/reglement-discord.md)
 * [🚂 Comment rejoindre VinlandCube](informations-importantes/comment-rejoindre-forgemc.md)
 * [📮 Comment voter pour VinlandCube](informations-importantes/comment-voter-pour-forgemc.md)
+* [❓ FAQ](informations-importantes/faq.md)
 
 ## Le Gameplay
 
