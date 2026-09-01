@@ -536,7 +536,7 @@ Les clés peuvent être obtenues de différentes manières :
 * Abat un arbre entier en un seul coup (même type de bûche, jusqu'à 130 max)
 * Collecte automatiquement les ressources dans votre inventaire.
 
-**Durabilité maximum :** 1.000 _(réparable)_
+**Durabilité maximum :** 10.000 _(réparable)_
 
 ***
 
