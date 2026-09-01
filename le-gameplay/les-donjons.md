@@ -25,7 +25,7 @@ layout:
 
 Les **failles** apparaissent **toutes les 30 minutes** à un **emplacement aléatoire** au spawn. Leur **type** est également déterminé aléatoirement.
 
-Elles vous permettent de récupérer des **loots** utilisés pour **crafter des armes et armures** à l'**armurerie**, ainsi que de gagner des **Clés Farm**.
+Elles vous permettent de récupérer des **loots** utilisés pour **crafter des armes et armures** à l'**armurerie**, ainsi que de gagner des **Clés Farm** et des **gemmes de réparation**.
 
 ***
 

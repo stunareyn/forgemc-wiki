@@ -42,7 +42,7 @@ Vous démarrez votre aventure sur une **île flottante composée d'un unique blo
 
 Le OneBlock est divisé en **phases progressives**, chacune avec son propre thème, ses ressources et ses monstres.
 
-Chaque phase apporte son lot de **nouveaux blocs, mobs et loot** pour renouveler l'expérience.
+Chaque phase apporte son lot de **nouveaux blocs, mobs et loot** pour renouveler l'expérience et une fois que vous avez fini toutes les phases, vous repartez de zéro.
 
 ***
 

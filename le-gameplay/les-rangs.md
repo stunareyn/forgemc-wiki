@@ -36,7 +36,7 @@ Il existe **6 rangs** sur VinlandCube. Remplissez les prérequis afin de gravir 
 * Bonus d'argent des Métiers : **0%**
 * Accès à **2 homes**
 * Accès à **2 emplacements** à l'HDV
-* Accès à **1 pwarp** `/pwarp`
+* Accès à **1 ob warp** `/ob warp`
 * **0%** de bonus supplémentaire dans le shop global `/shop`
 * **0%** de réduction sur les achats de blocs `/shop`
 * Salaire de **1.000 pièces d'or**/heure

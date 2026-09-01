@@ -33,7 +33,7 @@ Un **Pouvoir** est une capacité spéciale octroyant des passifs uniques (bonus/
 * ⚖️ **Passifs uniques** : Chaque pouvoir apporte des passifs exclusifs (bonus ET malus), à choisir selon votre style de jeu (minage, combat, exploration...).
 
 {% hint style="warning" %}
-Les pouvoirs basiques (Poulet, Poulpe, Lapin) sont offerts lors de votre première connexion au serveur. Votre choix est définitif : vous ne pourrez pas revenir en arrière ni acheter les deux autres pouvoirs basiques dans le futur.
+Les pouvoirs basiques (Poulet, Poulpe, Lapin) sont offerts lors de votre première connexion au serveur. Votre choix est définitif : vous ne pourrez pas revenir en arrière ni acheter les deux autres pouvoirs basiques dans le futur. Mais vous pourrez les obtenir dans les caisses.
 {% endhint %}
 
 ### ⚪ Pouvoirs Basiques
@@ -200,7 +200,7 @@ Les pouvoirs basiques (Poulet, Poulpe, Lapin) sont offerts lors de votre premiè
 **Passifs :**
 
 * +10 cœurs
-* Taille du joueur x2
+* Taille du joueur x2.5
 * x2 dégâts de chute
 * Effet de résistance permanent
 * 10% de chance d'obtenir x2 drops en tuant n'importe quel mob

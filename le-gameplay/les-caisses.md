@@ -88,7 +88,10 @@ Les clés peuvent être obtenues de différentes manières :
 
 #### 🌾 Houe du Paysan (Basique) — 3.34%
 
-**Effet :** Casse et replante vos cultures dans un rayon de 1x1 blocs.
+**Effets :**&#x20;
+
+* Casse et replante vos cultures dans un rayon de 1x1 blocs.
+* Collecte automatiquement les ressources dans votre inventaire.
 
 **Durabilité maximum :** 150 _(non réparable)_
 
@@ -118,19 +121,36 @@ Les clés peuvent être obtenues de différentes manières :
 
 #### 💰 Autres récompenses
 
-| Récompense                      | Chance |
-| ------------------------------- | ------ |
-| 100.00 pièces d'or              | 3.34%  |
-| 25.000 pièces d'or              | 1.67%  |
-| 50.000 pièces d'or              | 0.67%  |
-| Spawner à Vache (Commun)        | 0.67%  |
-| Spawner à Poulet (Commun)       | 0.67%  |
-| Spawner à Mouton (Commun)       | 0.67%  |
-| Spawner à Cochon (Commun)       | 0.67%  |
-| Spawner à Lapin (Commun)        | 0.67%  |
-| x2 Carapace de Shulker          | 16.72% |
-| x1 Boîte de Shulker grise clair | 3.34%  |
-| x64 Blocs de terre              | 3.34%  |
+| Récompense                       | Chance |
+| -------------------------------- | ------ |
+| 100.00 pièces d'or               | 3.34%  |
+| 25.000 pièces d'or               | 1.67%  |
+| 50.000 pièces d'or               | 0.67%  |
+| Spawner à Vache (Commun)         | 0.67%  |
+| Spawner à Poulet (Commun)        | 0.67%  |
+| Spawner à Mouton (Commun)        | 0.67%  |
+| Spawner à Cochon (Commun)        | 0.67%  |
+| Spawner à Lapin (Commun)         | 0.67%  |
+| x2 Carapace de Shulker           | 16.72% |
+| x1 Boîte de Shulker grise clair  | 3.34%  |
+| x64 Blocs de terre               | 3.34%  |
+| x12 Diamants                     | 3.34%  |
+| 2x Fragments de netherite        | 3.34%  |
+| 1x Livre Raccommodage            | 3.34%  |
+| 1x Livre Toucher de soie         | 3.34%  |
+| 1x Crâne de Wither squelette     | 3.34%  |
+| 1x Oeuf de dragon                | 0.67%  |
+| 2x Parchemin Commun              | 3.34%  |
+| 1x Parchemin Rare                | 3.34%  |
+| 1x Plume de fly (Basique)        | 3.34%  |
+| 1x Boost de métiers (Basique)    | 3.34%  |
+| 1x Gemme de réparation (Basique) | 3.34%  |
+| 2x Clé Vote                      | 3.34%  |
+| 1x Clé Mystique                  | 1.34%  |
+| 1x Clé Divine                    | 0.33%  |
+| Pouvoir du Poulet (Basique)      | 1.67%  |
+| Pouvoir du Poulpe (Basique)      | 1.67%  |
+| Pouvoir du Lapin (Basique)       | 1.67%  |
 
 </details>
 
@@ -184,7 +204,10 @@ Les clés peuvent être obtenues de différentes manières :
 
 #### 🌾 Houe du Huscarl (Rare) — 5.81%
 
-**Effet :** Casse et replante vos cultures dans un rayon de 2x2 blocs.
+**Effets :**&#x20;
+
+* Casse et replante vos cultures dans un rayon de 2x2 blocs.
+* Collecte automatiquement les ressources dans votre inventaire.
 
 **Durabilité maximum :** 5.000 _(non réparable)_
 
@@ -244,6 +267,11 @@ Les clés peuvent être obtenues de différentes manières :
 | Spawner à Creeper (Rare)   | 1.16%  |
 | x32 Diamants               | 5.81%  |
 | x6 Fragments de netherite  | 5.81%  |
+| x2 Parchemin Rare          | 5.81%  |
+| x1 Parchemin Épique        | 5.81%  |
+| 1x Clé Divine              | 0.58%  |
+| Pouvoir de l'Abeille       | 2.33%  |
+| Pouvoir de l'Araignée      | 2.33%  |
 
 </details>
 
@@ -302,7 +330,10 @@ Les clés peuvent être obtenues de différentes manières :
 
 * Fortune 4
 
-**Effet :** Casse et replante vos cultures dans un rayon de 3x3 blocs.
+**Effets :**&#x20;
+
+* Casse et replante vos cultures dans un rayon de 3x3 blocs.
+* Collecte automatiquement les ressources dans votre inventaire.
 
 **Durabilité maximum :** 10.000 _(non réparable)_
 
@@ -352,16 +383,23 @@ Les clés peuvent être obtenues de différentes manières :
 
 #### 💰 Autres récompenses
 
-| Récompense                  | Chance |
-| --------------------------- | ------ |
-| 100.000 pièces d'or         | 7.14%  |
-| 150.000 pièces d'or         | 3.57%  |
-| Spawner à Blaze (Epique)    | 3.57%  |
-| Spawner à Enderman (Epique) | 3.57%  |
-| Spawner à Slime (Epique)    | 3.57%  |
-| Spawner à Noyé (Epique)     | 3.57%  |
-| Spawner à Sorcière (Epique) | 3.57%  |
-| x2 Parchemin Légendaire     | 8.93%  |
+| Récompense                           | Chance |
+| ------------------------------------ | ------ |
+| 100.000 pièces d'or                  | 7.14%  |
+| 150.000 pièces d'or                  | 3.57%  |
+| Spawner à Blaze (Epique)             | 3.57%  |
+| Spawner à Enderman (Epique)          | 3.57%  |
+| Spawner à Slime (Epique)             | 3.57%  |
+| Spawner à Noyé (Epique)              | 3.57%  |
+| Spawner à Sorcière (Epique)          | 3.57%  |
+| x2 Parchemin Légendaire              | 8.93%  |
+| x2 Clé Divine                        | 1.79%  |
+| Pouvoir du Zombie (Epique)           | 0.71%  |
+| Pouvoir du Wither Squelette (Epique) | 0.71%  |
+| Pouvoir du Blaze (Epique)            | 0.71%  |
+| Pouvoir du Creeper (Epique)          | 0.71%  |
+| Coffre de stockage                   | 2.5%   |
+| Coffre Divin                         | 3.57%  |
 
 </details>
 
@@ -459,7 +497,10 @@ Les clés peuvent être obtenues de différentes manières :
 * Affilage 4
 * Butin 6
 
-**Effet :** +50% de dégâts supplémentaires sur tous les monstres des failles
+**Effets :**&#x20;
+
+* +50% de dégâts supplémentaires sur tous les monstres des failles
+* Collecte automatiquement les ressources dans votre inventaire.
 
 **Durabilité maximum :** 1.000 _(réparable)_
 
@@ -478,6 +519,8 @@ Les clés peuvent être obtenues de différentes manières :
 * Efficacité 7
 * Fortune 5
 
+**Effet :** Collecte automatiquement les ressources dans votre inventaire.
+
 **Durabilité maximum :** 1.000 _(réparable)_
 
 ***
@@ -488,7 +531,10 @@ Les clés peuvent être obtenues de différentes manières :
 
 * Efficacité 5
 
-**Effet :** Abat un arbre entier en un seul coup (même type de bûche, jusqu'à 130 max)
+**Effets :**&#x20;
+
+* Abat un arbre entier en un seul coup (même type de bûche, jusqu'à 130 max)
+* Collecte automatiquement les ressources dans votre inventaire.
 
 **Durabilité maximum :** 1.000 _(réparable)_
 
@@ -500,6 +546,8 @@ Les clés peuvent être obtenues de différentes manières :
 
 * Efficacité 7
 
+**Effet :** Collecte automatiquement les ressources dans votre inventaire.
+
 **Durabilité maximum :** 1.000 _(réparable)_
 
 ***
@@ -510,7 +558,10 @@ Les clés peuvent être obtenues de différentes manières :
 
 * Efficacité 5
 
-**Effet :** Casse dans un rayon de 3x3
+**Effets :**
+
+* Casse dans un rayon de 3x3
+* Collecte automatiquement les ressources dans votre inventaire.
 
 **Durabilité maximum :** 1.000 _(non réparable)_
 
@@ -522,7 +573,10 @@ Les clés peuvent être obtenues de différentes manières :
 
 * Fortune 5
 
-**Effet :** Casse et replante vos cultures dans un rayon de 3x3 blocs.
+**Effets :**&#x20;
+
+* Casse et replante vos cultures dans un rayon de 3x3 blocs.
+* Collecte automatiquement les ressources dans votre inventaire.
 
 **Durabilité maximum :** 1.000 _(non réparable)_
 
@@ -564,12 +618,23 @@ Les clés peuvent être obtenues de différentes manières :
 
 #### 💰 Autres récompenses
 
-| Récompense                                          | Chance     |
-| --------------------------------------------------- | ---------- |
-| 200.000 pièces d'or                                 | 4.4%       |
-| 300.000 pièces d'or                                 | 3.3%       |
-| Plume de fly (Mythique) — 5h de vol                 | _Inconnue_ |
-| Boost Mythique +50% — 5h de boost XP/Argent Métiers | _Inconnue_ |
+| Récompense                     | Chance     |
+| ------------------------------ | ---------- |
+| 200.000 pièces d'or            | 4.4%       |
+| 300.000 pièces d'or            | 3.3%       |
+| Plume de fly (Mythique)        | _Inconnue_ |
+| Boost (Mythique)               | _Inconnue_ |
+| Gemme de réparation (Mythique) | _Inconnue_ |
+| x2 Clé Valkyrie                | 2.31%      |
+| Spawner à Gardien              | 5.77%      |
+| Spawner à Golem de fer         | 4.61%      |
+| Spawner à Vindicateur          | 1.38%      |
+| Spawner à Évocateur            | 1.38%      |
+| Pouvoir de l'Enderman          | 1.38%      |
+| Pouvoir d'Illageois            | 1.38%      |
+| Pouvoir du Warden              | 0.69%      |
+| Coffre Collecteur              | 2.31%      |
+| Coffre du Valhalla             | 2.31%      |
 
 </details>
 
@@ -623,7 +688,10 @@ Les clés peuvent être obtenues de différentes manières :
 
 #### 🌾 Houe Nordique (Commun) — 3.72%
 
-**Effet :** Casse et replante vos cultures dans un rayon de 1x1 blocs.
+**Effets :**&#x20;
+
+* Casse et replante vos cultures dans un rayon de 1x1 blocs.
+* Collecte automatiquement les ressources dans votre inventaire.
 
 **Durabilité maximum :** 1.000 _(non réparable)_
 
@@ -683,6 +751,21 @@ Les clés peuvent être obtenues de différentes manières :
 | Spawner à Cochon (Commun) | 0.74%  |
 | Spawner à Lapin (Commun)  | 0.74%  |
 | x128 Blocs de terre       | 3.72%  |
+| x128 Blocs de sable       | 3.72%  |
+| x64 Sable des âmes        | 3.72%  |
+| x32 Lingot de fer         | 3.72%  |
+| x16 Lingot d'or           | 3.72%  |
+| x12 Diamant               | 3.72%  |
+| x2 Fragment de netherite  | 3.72%  |
+| x2 Parchemin Commun       | 3.72%  |
+| x1 Parchemin Rare         | 3.72%  |
+| x1  Livre Raccommodage    | 3.72%  |
+| x1 Livre Toucher de soie  | 3.72%  |
+| x1 Livre Tranchant 5      | 3.72%  |
+| x1 Livre Éfficacité 5     | 3.72%  |
+| x1 Livre Solidité 3       | 3.72%  |
+| Pouvoir du Villageois     | 0.74%  |
+| Pouvoir de l'Ocelot       | 0.74%  |
 
 </details>
 
@@ -736,9 +819,10 @@ Les clés peuvent être obtenues de différentes manières :
 
 #### 🌾 Houe du Huscarl (Rare) — 5.35%
 
-**Effet :** Casse et replante vos cultures dans un rayon de 2x2 blocs.
+**Effets :**&#x20;
 
-**Durabilité maximum :** 1.000 _(non réparable)_
+* Casse et replante vos cultures dans un rayon de 2x2 blocs.
+* Collecte automatiquement les ressources dans votre inventaire.
 
 ***
 
@@ -796,6 +880,12 @@ Les clés peuvent être obtenues de différentes manières :
 | Spawner à Creeper (Rare)   | 1.07%  |
 | 75 XP Métiers (Rare)       | 5.35%  |
 | x32 Lingot d'or            | 5.35%  |
+| x32 Diamant                | 5.35%  |
+| x6 Fragment de netherite   | 5.35%  |
+| x2 Parchemin Rare          | 5.35%  |
+| x1 Parchemin Epique        | 5.35%  |
+| Pouvoir de l'Abeille       |        |
+| Pouvoir de l'Araignée      |        |
 
 </details>
 
@@ -854,7 +944,10 @@ Les clés peuvent être obtenues de différentes manières :
 
 * Fortune III
 
-**Effet :** Casse et replante vos cultures dans un rayon de 2x2 blocs.
+**Effets :**&#x20;
+
+* Casse et replante vos cultures dans un rayon de 2x2 blocs.
+* Collecte automatiquement les ressources dans votre inventaire.
 
 **Durabilité maximum :** 1.000 _(non réparable)_
 
@@ -917,3 +1010,6 @@ Les clés peuvent être obtenues de différentes manières :
 
 </details>
 
+{% hint style="info" %}
+**Astuce :** Grâce à un clic droit + sneak, vous pouvez ouvrir 10 fois une caisse n'ayant pas d'animation d'ouverture.
+{% endhint %}
