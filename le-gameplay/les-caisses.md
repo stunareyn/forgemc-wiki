@@ -884,8 +884,8 @@ Les clés peuvent être obtenues de différentes manières :
 | x6 Fragment de netherite   | 5.35%  |
 | x2 Parchemin Rare          | 5.35%  |
 | x1 Parchemin Epique        | 5.35%  |
-| Pouvoir de l'Abeille       |        |
-| Pouvoir de l'Araignée      |        |
+| Pouvoir de l'Abeille       | 1.05%  |
+| Pouvoir de l'Araignée      | 1.05%  |
 
 </details>
 
@@ -1007,9 +1007,23 @@ Les clés peuvent être obtenues de différentes manières :
 | Spawner à Noyé (Epique)     | 1.03%  |
 | Spawner à Sorcière (Epique) | 1.03%  |
 | 200 XP Métiers              | 5.15%  |
+| x64 Diamant                 | 5.15%  |
+| x2 Lingot de netherite      | 5.15%  |
+| x2 Parchemin Epique         | 5.15%  |
+| x1 Parchemin Légendaire     | 5.15%  |
+| x1 Clé Divine               | 2.58%  |
+| x1 Clé Valkyrie             | 0.52%  |
+| Pouvoir du Zombie           | 1.03%  |
+| Pouvoir du Wither Squelette | 1.03%  |
+| Pouvoir du Blaze            | 1.03%  |
+| Pouvoir du Creeper          | 1.03%  |
+| Coffre de stockage          | 2.58%  |
 
 </details>
 
 {% hint style="info" %}
-**Astuce :** Grâce à un clic droit + sneak, vous pouvez ouvrir 10 fois une caisse n'ayant pas d'animation d'ouverture.
+**Astuces :**&#x20;
+
+* Grâce à un clic droit + sneak, vous pouvez ouvrir 10 fois une caisse n'ayant pas d'animation d'ouverture.
+* Si vous avez déjà obtenu un pouvoir en caisse, retomber dessus vous donnera une autre récompense aléatoire à la place.
 {% endhint %}
