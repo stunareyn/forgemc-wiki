@@ -27,7 +27,7 @@ Les **failles** apparaissent **toutes les 30 minutes** à un **emplacement aléa
 
 Elles vous permettent de récupérer des **loots** utilisés pour **crafter des armes et armures** à l'**armurerie**, ainsi que de gagner des **Clés Farm** et des **gemmes de réparation**.
 
-<figure><img src="../.gitbook/assets/Failles.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Failles (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
