@@ -29,6 +29,10 @@ La boutique propose des **grades**, des **clés** et d'autres avantages en écha
 
 ### 👑 Les Grades
 
+{% hint style="warning" %}
+Pour acheter un grade, il est nécessaire de posséder le grade précédent.
+{% endhint %}
+
 #### 🔹 Grade Noble
 
 **Prix :** 💎 1000 Gemmes
