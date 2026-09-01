@@ -65,7 +65,7 @@ Tous les avantages du rang **Exilé**, plus :
 
 * Bonus d'argent des Métiers : **5%**
 * Accès à **4 emplacements** à l'HDV
-* **+1 pwarp** supplémentaire
+* **+1 ob warp** supplémentaire `/ob warp`
 * **+1 boutique joueur** `/qs`
 * **5%** de bonus dans le shop global `/shop`
 * **5%** de réduction sur les blocs `/shop`
@@ -94,8 +94,8 @@ Tous les avantages du rang **Pillard**, plus :
 * Bonus d'argent des Métiers : **10%**
 * Accès à **4 homes**
 * Accès à **8 emplacements** à l'HDV
-* **+1 pwarp** supplémentaire
-* **+1 boutique joueur** `/qs`
+* **+1 ob warp** supplémentaire `/ob warp`
+* **+1  boutique joueur** `/qs`
 * **10%** de bonus dans le shop global `/shop`
 * **10%** de réduction sur les blocs `/shop`
 * Salaire de **3.000 pièces d'or**/heure
@@ -105,7 +105,7 @@ Tous les avantages du rang **Pillard**, plus :
 
 #### 💻 Commandes
 
-Commandes du rang Pillard + `/feed` • `/near` • `/crafter`
+Commandes du rang Pillard + `/feed` • `/near` • `/craft`
 
 ***
 
@@ -127,7 +127,7 @@ Tous les avantages du rang **Guerrier**, plus :
 * Bonus d'argent des Métiers : **15%**
 * Accès à **6 homes**
 * Accès à **12 emplacements** à l'HDV
-* **+1 pwarp** supplémentaire
+* **+1 ob warp** supplémentaire `/ob warp`
 * **+1 boutique joueur** `/qs`
 * **15%** de bonus dans le shop global `/shop`
 * **15%** de réduction sur les blocs `/shop`
@@ -160,7 +160,7 @@ Tous les avantages du rang **Jarl**, plus :
 * Bonus d'argent des Métiers : **20%**
 * Accès à **8 homes**
 * Accès à **16 emplacements** à l'HDV
-* **+1 pwarp** supplémentaire
+* **+1 ob warp** supplémentaire `/ob warp`
 * **+1 boutique joueur** `/qs`
 * **20%** de bonus dans le shop global `/shop`
 * **20%** de réduction sur les blocs `/shop`
@@ -193,7 +193,7 @@ Tous les avantages du rang **Berserk**, plus :
 * Bonus d'argent des Métiers : **25%**
 * Accès à **10 homes**
 * Accès à **20 emplacements** à l'HDV
-* **+1 pwarp** supplémentaire
+* **+1 ob warp** supplémentaire `/ob warp`
 * **+1 boutique joueur** `/qs`
 * **25%** de bonus dans le shop global `/shop`
 * **25%** de réduction sur les blocs `/shop`

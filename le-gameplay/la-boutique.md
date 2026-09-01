@@ -33,20 +33,20 @@ La boutique propose des **grades**, des **clés** et d'autres avantages en écha
 
 **Prix :** 💎 1000 Gemmes
 
-**Avantages :**
+#### ✨ Avantages
 
-* Accès à un pwarp supplémentaire `/pwarp`
-* Accès à 4 homes
-* Accès à 8 emplacements à l'HDV
-* Accès au kit Noble `/kit Noble`
-* Accès à 2 métiers simultanément
-* 25 minutes d'AFK maximum
+Tous les avantages du rang **Exilé**, plus :
 
-**Commandes :**
+* **+1 ob warp** supplémentaire `/ob warp`
+* Accès à **4 homes**
+* Accès à **8 emplacements** à l'HDV
+* Accès au **kit Noble** `/kit Noble`
+* Accès à **2 métiers** simultanément
+* **25 minutes** d'AFK maximum
 
-* Accès à la commande `/feed`
-* Accès à la commande `/near`
-* Accès à la commande `/sign`
+#### 💻 Commandes
+
+Commandes du rang Exilé + `/feed` •  `/near` •  `/sign`
 
 ***
 
@@ -54,24 +54,20 @@ La boutique propose des **grades**, des **clés** et d'autres avantages en écha
 
 **Prix :** 💎 1500 Gemmes
 
-**Avantages :**
+#### ✨ Avantages
 
-* ✅ Avantages du rang Noble
-* Accès à un pwarp supplémentaire `/pwarp`
-* Accès à 6 homes
-* Accès à 12 emplacements à l'HDV
-* Accès au kit Seigneur `/kit Seigneur`
-* Accès à 3 métiers simultanément
-* 35 minutes d'AFK maximum
+Tous les avantages du grade **Noble**, plus :
 
-**Commandes :**
+* **+1 ob warp** supplémentaire `/ob warp`
+* Accès à **6 homes**
+* Accès à **12 emplacements** à l'HDV
+* Accès au **kit Seigneur** `/kit Seigneur`
+* Accès à **3 métiers** simultanément
+* **35 minutes** d'AFK maximum
 
-* ✅ Commandes du rang Noble
-* Accès à la commande `/craft`
-* Accès à la commande `/loom`
-* Accès à la commande `/ec`
-* Accès à la commande `/sell hand`
-* Accès à la commande `/tpahere`
+#### 💻 Commandes
+
+Commandes du rang Noble + `/craft` • `/loom` • `/ec` • `/sell hand` • `/tpahere`
 
 ***
 
@@ -79,25 +75,21 @@ La boutique propose des **grades**, des **clés** et d'autres avantages en écha
 
 **Prix :** 💎 2500 Gemmes
 
-**Avantages :**
+#### ✨ Avantages
 
-* ✅ Avantages du rang Seigneur
-* Accès à un pwarp supplémentaire `/pwarp`
-* Accès à 8 homes
-* Accès à 16 emplacements à l'HDV
-* Accès au kit Légende `/kit Legende`
-* Accès à 4 métiers simultanément
-* 45 minutes d'AFK maximum
+Tous les avantages du grade **Seigneur**, plus :
 
-**Commandes :**
+* **+1 ob warp** supplémentaire `/ob warp`
+* Accès à **8 homes**
+* Accès à **16 emplacements** à l'HDV
+* Accès au **kit Légende** `/kit Legende`
+* Accès à la **Faille des Âmes Errantes**
+* Accès à **4 métiers** simultanément
+* **45 minutes** d'AFK maximum
 
-* ✅ Commandes du rang Seigneur
-* Accès à la commande `/repair`
-* Accès à la commande `/stonecutter`
-* Accès à la commande `/anvil`
-* Accès à la commande `/grindstone`
-* Accès à la commande `/back`
-* Accès à la commande `/condense`
+#### 💻 Commandes
+
+Commandes du grade Seigneur + `/repair` • `/stonecutter` • `/anvil` • `/grindstone` • `/back` • `/condense`
 
 ***
 
@@ -105,28 +97,26 @@ La boutique propose des **grades**, des **clés** et d'autres avantages en écha
 
 **Prix :** 💎 5000 Gemmes
 
-**Avantages :**
+#### ✨ Avantages
 
-* ✅ Avantages du rang Légende
-* Accès à un pwarp supplémentaire `/pwarp`
-* Accès à 10 homes
-* Accès à 20 emplacements à l'HDV
-* **Aucune limite** sur la création des pwarps `/pwarp`
-* Accès au kit Valhalla `/kit Valhalla`
+Tous les avantages du grade **Légende**, plus :
+
+* **+1 ob warp** supplémentaire `/ob warp`
+* Accès à **10 homes**
+* Accès à **20 emplacements** à l'HDV
+* **Aucune limite** sur la création des ob warps `/ob wwarp`
+* Accès au **kit Valhalla** `/kit Valhalla`
 * **Aucun délai de téléportation** (`/back`, `/tpa`...)
-* Choix du format et des couleurs pour tes messages
-* Accès à toutes les failles
-* Accès à 5 métiers simultanément
-* 1 heure d'AFK maximum
+* Choix du **format et des couleurs** pour tes **messages**
+* **Accès à toutes les failles**
+* Accès à **5 métiers** simultanément
+* **1 heure** d'AFK maximum
 
-**Commandes :**
+#### 💻 Commandes
 
-* ✅ Commandes du rang Légende
-* Accès à la commande `/fly`
-* Accès à la commande `/repair all`
-* Accès à la commande `/sell all`
-* Accès à la commande `/top`
-* Accès à la commande `/bottom`
+Commandes du grade Légende + `/fly` • `/repair all` • `/sell all` • `/top` • `/bottom`
+
+
 
 ***
 
@@ -134,25 +124,25 @@ La boutique propose des **grades**, des **clés** et d'autres avantages en écha
 
 **Obtention :** Dépense **+1000€** sur la boutique pour débloquer ce grade et ses avantages uniques !
 
-**Avantages :**
+#### ✨ Avantages
 
-* ✅ Avantages du rang Valhalla
-* Un salon Discord privé pour discuter avec l'équipe de développement et les administrateurs
-* Dons réguliers de clés
-* Accès à des aperçus exclusifs des mises à jour futures
-* Accès à des emplacements à l'HDV **illimités**
-* 2 heures d'AFK maximum
+Tous les avantages du grade **Valhalla**, plus :
 
-**Commandes :**
+* Un **salon Discord privé** pour discuter avec l'équipe de développement et les administrateurs
+* **Dons réguliers de clés**
+* Accès à des **aperçus exclusifs des mises à jour** futures
+* Accès à des **emplacements** à l'HDV **illimités**
+* **2 heures** d'AFK maximum
 
-* Accès à la commande `/ptime`
-* Accès à la commande `/pweather`
+#### 💻 Commandes
+
+Commandes du grade Valhalla + `/ptime` • `/pweather`
 
 ***
 
 ### ⭐ Abonnement Premium
 
-L'abonnement premium t'offre des avantages exclusifs :
+L'**abonnement premium** t'offre des **avantages exclusifs** :
 
 * 🏷️ Icône exclusive à côté de ton pseudo
 * 🎨 Personnalisation des couleurs et formats de tes messages
