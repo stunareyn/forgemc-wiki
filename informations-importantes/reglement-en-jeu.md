@@ -42,7 +42,7 @@ Retrouvez ici toutes les informations concernant le **règlement officiel en jeu
 5. Aucune **publicité** n'est autorisée.
 6. Pas de **spam** ni de **flood** dans le chat.
 7. Les **skins et pseudos inappropriés** sont interdits.
-8. Arnarque **interdit** (exemple multitool à 0 de durabilité au /ah ou autres).
+8. Arnaques **interdites** (exemple multitool à 0 de durabilité au /ah ou autres).
 9. Ne partagez **aucune information personnelle**, la vôtre ou celle d'autrui.
 10. Les menaces de **DDoS / DoX / Raid** entraîneront des **sanctions**.
 11. Aucune **tentative d'évitement de sanction** ne sera tolérée.
