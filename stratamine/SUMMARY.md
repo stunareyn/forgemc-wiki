@@ -3,10 +3,10 @@
 ## 🌎 Mondes
 
 * [Les quatre mondes](README.md)
-  * [LYTHOS (Overworld)](mondes/les-quatre-mondes/lythos-overworld.md)
-  * [PYROS (Nether)](mondes/les-quatre-mondes/pyros-nether.md)
-  * [NYX (End)](mondes/les-quatre-mondes/nyx-end.md)
-  * [AETHER](mondes/les-quatre-mondes/aether.md)
+  * [I. LYTHOS (Overworld)](mondes/les-quatre-mondes/i.-lythos-overworld.md)
+  * [II. PYROS (Nether)](mondes/les-quatre-mondes/ii.-pyros-nether.md)
+  * [III. NYX (End)](mondes/les-quatre-mondes/iii.-nyx-end.md)
+  * [IV. AETHER](mondes/les-quatre-mondes/iv.-aether.md)
 * [Fonctionnement des biomes](mondes/fonctionnement-des-biomes.md)
 
 ## ⛏️ Pioche

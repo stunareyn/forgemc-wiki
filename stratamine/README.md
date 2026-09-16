@@ -6,13 +6,13 @@ Les mondes découpent la progression en **grandes étapes lisibles**. Chaque mon
 
 ## ⚙️ Fonctionnement
 
-| Monde                                                     |    Biomes    |   Minerais   | Accès                              |
-| --------------------------------------------------------- | :----------: | :----------: | ---------------------------------- |
-| [🪨 Lythos](mondes/les-quatre-mondes/lythos-overworld.md) |       4      |      10      | Départ                             |
-| [🔥 Nether](mondes/les-quatre-mondes/pyros-nether.md)     |       4      |       9      | Pioche en Ambre et Prestige I      |
-| [🌌 End](mondes/les-quatre-mondes/nyx-end.md)             |       4      |       9      | Pioche en Infernium et Prestige IV |
-| [☁️ Aether](mondes/les-quatre-mondes/aether.md)           |       3      |       8      | Pioche en Nova et Prestige VII     |
-| [🧭 Khaos](mises-a-jour/khaos.md)                         | 🔵 à définir | 🔵 à définir | 🔵 à définir                       |
+| Monde                                                        |    Biomes    |   Minerais   | Accès                              |
+| ------------------------------------------------------------ | :----------: | :----------: | ---------------------------------- |
+| [🪨 Lythos](mondes/les-quatre-mondes/i.-lythos-overworld.md) |       4      |      10      | Départ                             |
+| [🔥 Nether](mondes/les-quatre-mondes/ii.-pyros-nether.md)    |       4      |       9      | Pioche en Ambre et Prestige I      |
+| [🌌 End](mondes/les-quatre-mondes/iii.-nyx-end.md)           |       4      |       9      | Pioche en Infernium et Prestige IV |
+| [☁️ Aether](mondes/les-quatre-mondes/iv.-aether.md)          |       3      |       8      | Pioche en Nova et Prestige VII     |
+| [🧭 Khaos](mises-a-jour/khaos.md)                            | 🔵 à définir | 🔵 à définir | 🔵 à définir                       |
 
 * Chaque monde a ses **propres minerais**. Aucun minerai n'apparaît dans deux mondes.
 * Le minerai **Commun** d'un monde vaut plus que le **Mythique** du monde précédent.
