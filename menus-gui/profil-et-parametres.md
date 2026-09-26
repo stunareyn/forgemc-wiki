@@ -1,2 +1,0 @@
-# Profil et paramètres
-

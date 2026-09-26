@@ -1,2 +1,0 @@
-# Règles obligatoires
-

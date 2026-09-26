@@ -1,2 +1,0 @@
-# Votes et Vote Party
-

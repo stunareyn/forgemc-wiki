@@ -1,2 +1,0 @@
-# Renaissance et long terme
-
