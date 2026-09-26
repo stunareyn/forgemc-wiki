@@ -2,8 +2,7 @@
 
 ## Le Gameplay
 
-* [♾️ La Tour de l'Infini](README.md)
-* [🧊 Le OneBlock](le-gameplay/le-oneblock.md)
+* [🧊 Le OneBlock](README.md)
 * [🌀 Les Failles](le-gameplay/les-donjons.md)
 * [🐦‍⬛ Le Marché noir](le-gameplay/le-marche-noir.md)
 * [💰 Les Primes](le-gameplay/les-primes.md)
